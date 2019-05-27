@@ -43,23 +43,7 @@ def group_by_year(movie):
         dat[year].append(i)
     return dat
 movies_by_year  = (group_by_year(top_movies))
-# pprint .pprint (movies_by_year )
-
-# # task3 
-# def group_by_decade(movies):
-#     for year in movies:
-#         json_year = json.loads(year)
-#         print (json_year)
-    #     y = json_year['year']
-    #     s = y%10
-    #     decede = y-s
-    #     dic = {}
-    #     if decede not in dic:
-    #         dic[decede] = []
-    #     dic[decede].append(json_year)
-    # return  dic 
-# group_by_decade(movies_by_year)
-# pprint.pprint (again_decede)
+pprint .pprint (movies_by_year )
 
 # task 12
 def scrape_movie_cast(movie_caste_url, id):
@@ -268,39 +252,7 @@ def analyse_movies_genre(movie_list):
                 gerne_dic [data] += 1 
     return  gerne_dic 
 pprint.pprint (analyse_movies_genre(data))  
-# task14
-s = {}
-def analyse_co_actors(movies_list):
-    co_actor = {}
-    for movie in movies_list:
-        json_data = json.loads(movie)
-        json_caste = json_data['caste']
-        for i  in json_caste[:1]:
-            caste_ids = i['imbd id']
-            # print (caste_ids)
-            caste_names = i['imbd name']
-            if caste_ids in  co_actor :
-                for cast in json_caste[1:]:
-                    cast_id = cast['imbd name']
-                    # print (cast_id)
-                    if cast_id in co_actor[caste_ids]['frequent_co_actors']:
-                            num_of_movies = cast
-                            num_of_movies['num_movies']+= 1
-                    else:
-                            num_of_movie = cast
-                            num_of_movie['num_movies'] = 1
-                            dic['frequent_co_actors'].append(num_of_movie)   
-            else:
-                    co_actor[cast_ids] = {}
-                    dic = co_actor[caste_ids]
-                    dic['name'] =caste_names
-                    dic['frequent_co_actors'] = []
-                    num_of_movies =cast
-                    num_of_movies['num_movies'] = 1
-                    dic['frequent_co_actors'].append(num_of_movie)
-	return co_actor             
-
-pprint .pprint(analyse_co_actors(data))        
+     
 # task15
 def analyse_actors(movies_detail_list):
     actors_total_movie = {}
