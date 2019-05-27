@@ -1,0 +1,82 @@
+{
+ "bio": "Hichki presents a positive and inspiring story about a woman who turns her biggest weakness into her biggest strength.", 
+ "name": "Hichki", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Siddharth Malhotra"
+ ], 
+ "poster": "https://www.imdb.com/title/tt6588966/mediaviewer/rm3946467584", 
+ "genre": [
+  "Comedy", 
+  "Drama"
+ ], 
+ "runtime": "116 min", 
+ "caste": [
+  {
+   "imbd id": "nm0611552", 
+   "imbd name": "Rani Mukerji"
+  }, 
+  {
+   "imbd id": "nm0755113", 
+   "imbd name": "Sachin"
+  }, 
+  {
+   "imbd id": "nm4173131", 
+   "imbd name": "Neeraj Kabi"
+  }, 
+  {
+   "imbd id": "nm4449367", 
+   "imbd name": "Jannat Zubair Rahmani"
+  }, 
+  {
+   "imbd id": "nm5704026", 
+   "imbd name": "Ivan Rodrigues"
+  }, 
+  {
+   "imbd id": "nm9884020", 
+   "imbd name": "Leena Acharya"
+  }, 
+  {
+   "imbd id": "nm4990507", 
+   "imbd name": "Hussain Dalal"
+  }, 
+  {
+   "imbd id": "nm8092862", 
+   "imbd name": "Riya Shukla"
+  }, 
+  {
+   "imbd id": "nm0324845", 
+   "imbd name": "Vikram Gokhale"
+  }, 
+  {
+   "imbd id": "nm1123110", 
+   "imbd name": "Supriya Pilgaonkar"
+  }, 
+  {
+   "imbd id": "nm8565406", 
+   "imbd name": "Rohit Saraf"
+  }, 
+  {
+   "imbd id": "nm9884023", 
+   "imbd name": "Aman Gandotra"
+  }, 
+  {
+   "imbd id": "nm1794460", 
+   "imbd name": "Asif Basra"
+  }, 
+  {
+   "imbd id": "nm0837000", 
+   "imbd name": "Shivkumar Subramaniam"
+  }, 
+  {
+   "imbd id": "nm9252446", 
+   "imbd name": "Poorti Jai Agarwal"
+  }
+ ]
+}

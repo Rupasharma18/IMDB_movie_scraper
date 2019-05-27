@@ -1,0 +1,81 @@
+{
+ "bio": "Following his father's death, a boy leaves home to study in Calcutta, while his mother must face a life alone.", 
+ "name": "Aparajito", 
+ "language": [
+  "Bengali", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Satyajit Ray"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0048956/mediaviewer/rm583983616", 
+ "genre": [
+  "Drama"
+ ], 
+ "runtime": "110 min", 
+ "caste": [
+  {
+   "imbd id": "nm0011967", 
+   "imbd name": "Kamala Adhikari"
+  }, 
+  {
+   "imbd id": "nm0051837", 
+   "imbd name": "Lalchand Banerjee"
+  }, 
+  {
+   "imbd id": "nm0052332", 
+   "imbd name": "Kali Bannerjee"
+  }, 
+  {
+   "imbd id": "nm0052333", 
+   "imbd name": "Kanu Bannerjee"
+  }, 
+  {
+   "imbd id": "nm0052334", 
+   "imbd name": "Karuna Bannerjee"
+  }, 
+  {
+   "imbd id": "nm1434574", 
+   "imbd name": "Panchanan Bhattacharya"
+  }, 
+  {
+   "imbd id": "nm5581917", 
+   "imbd name": "Debabrata Chakraborty"
+  }, 
+  {
+   "imbd id": "nm0149839", 
+   "imbd name": "Harendrakumar Chakravarti"
+  }, 
+  {
+   "imbd id": "nm0154130", 
+   "imbd name": "Hemanta Chatterjee"
+  }, 
+  {
+   "imbd id": "nm0222461", 
+   "imbd name": "Meenakshi Devi"
+  }, 
+  {
+   "imbd id": "nm0304354", 
+   "imbd name": "Subodh Ganguli"
+  }, 
+  {
+   "imbd id": "nm0315871", 
+   "imbd name": "Smaran Ghosal"
+  }, 
+  {
+   "imbd id": "nm0315882", 
+   "imbd name": "Charuprakash Ghosh"
+  }, 
+  {
+   "imbd id": "nm0348496", 
+   "imbd name": "Santi Gupta"
+  }, 
+  {
+   "imbd id": "nm0593940", 
+   "imbd name": "Ajay Mitra"
+  }
+ ]
+}

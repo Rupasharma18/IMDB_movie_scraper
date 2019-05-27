@@ -1,0 +1,84 @@
+{
+ "bio": "Three friends decide to turn their fantasy vacation into reality after one of their number becomes engaged.", 
+ "name": "ZindagiNaMilegiDobara", 
+ "language": [
+  "Hindi", 
+  "Japanese", 
+  "Spanish", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Zoya Akhtar"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1562872/mediaviewer/rm968548608", 
+ "genre": [
+  "Comedy", 
+  "Drama"
+ ], 
+ "runtime": "155 min", 
+ "caste": [
+  {
+   "imbd id": "nm0004335", 
+   "imbd name": "Hrithik Roshan"
+  }, 
+  {
+   "imbd id": "nm1027719", 
+   "imbd name": "Farhan Akhtar"
+  }, 
+  {
+   "imbd id": "nm1867717", 
+   "imbd name": "Abhay Deol"
+  }, 
+  {
+   "imbd id": "nm1229940", 
+   "imbd name": "Katrina Kaif"
+  }, 
+  {
+   "imbd id": "nm3202701", 
+   "imbd name": "Kalki Koechlin"
+  }, 
+  {
+   "imbd id": "nm1779186", 
+   "imbd name": "Ariadna Cabrol"
+  }, 
+  {
+   "imbd id": "nm0787462", 
+   "imbd name": "Naseeruddin Shah"
+  }, 
+  {
+   "imbd id": "nm0622732", 
+   "imbd name": "Deepti Naval"
+  }, 
+  {
+   "imbd id": "nm5209363", 
+   "imbd name": "Surpreet Bedi"
+  }, 
+  {
+   "imbd id": "nm3442808", 
+   "imbd name": "Anisa Butt"
+  }, 
+  {
+   "imbd id": "nm5208483", 
+   "imbd name": "Juan Jose Amador"
+  }, 
+  {
+   "imbd id": "nm3769223", 
+   "imbd name": "Aashrita Kamath"
+  }, 
+  {
+   "imbd id": "nm1299892", 
+   "imbd name": "Lolo Herrero"
+  }, 
+  {
+   "imbd id": "nm5207756", 
+   "imbd name": "Barbara Holzer"
+  }, 
+  {
+   "imbd id": "nm3785394", 
+   "imbd name": "Ravi Khemu"
+  }
+ ]
+}

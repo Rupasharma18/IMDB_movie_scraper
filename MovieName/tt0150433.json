@@ -1,0 +1,87 @@
+{
+ "bio": "It's 1947 and the borderlines between India and Pakistan are being drawn. A young girl witnesses tragedy as her ayah (nanny) is caught between the love of two men and the rising tide of political and religious violence.", 
+ "name": "Earth", 
+ "language": [
+  "Hindi", 
+  "English", 
+  "Gujarati", 
+  "Punjabi", 
+  "Urdu"
+ ], 
+ "country": [
+  "India", 
+  "Canada"
+ ], 
+ "director": [
+  "Deepa Mehta"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0150433/mediaviewer/rm2442283264", 
+ "genre": [
+  "Drama", 
+  "Romance", 
+  "War"
+ ], 
+ "runtime": "110 min", 
+ "caste": [
+  {
+   "imbd id": "nm0451148", 
+   "imbd name": "Aamir Khan"
+  }, 
+  {
+   "imbd id": "nm0201903", 
+   "imbd name": "Nandita Das"
+  }, 
+  {
+   "imbd id": "nm0451391", 
+   "imbd name": "Rahul Khanna"
+  }, 
+  {
+   "imbd id": "nm0786040", 
+   "imbd name": "Maia Sethna"
+  }, 
+  {
+   "imbd id": "nm2341882", 
+   "imbd name": "Babby Singh"
+  }, 
+  {
+   "imbd id": "nm0317307", 
+   "imbd name": "Kitu Gidwani"
+  }, 
+  {
+   "imbd id": "nm0944834", 
+   "imbd name": "Raghuvir Yadav"
+  }, 
+  {
+   "imbd id": "nm0159526", 
+   "imbd name": "Kabir Chowdhury"
+  }, 
+  {
+   "imbd id": "nm0952232", 
+   "imbd name": "Arif Zakaria"
+  }, 
+  {
+   "imbd id": "nm0677139", 
+   "imbd name": "Eric Peterson"
+  }, 
+  {
+   "imbd id": "nm0004109", 
+   "imbd name": "Gulshan Grover"
+  }, 
+  {
+   "imbd id": "nm0907961", 
+   "imbd name": "Lauren Walker"
+  }, 
+  {
+   "imbd id": "nm0415827", 
+   "imbd name": "Cinia Jain"
+  }, 
+  {
+   "imbd id": "nm0424104", 
+   "imbd name": "Navtej Singh Johar"
+  }, 
+  {
+   "imbd id": "nm0539497", 
+   "imbd name": "Pavan Malhotra"
+  }
+ ]
+}

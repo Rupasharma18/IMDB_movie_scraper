@@ -1,0 +1,85 @@
+{
+ "bio": "A Delhi girl from a traditional family sets out on a solo honeymoon after her marriage gets cancelled.", 
+ "name": "Queen", 
+ "language": [
+  "Hindi", 
+  "English", 
+  "French", 
+  "Japanese", 
+  "Dutch"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Vikas Bahl"
+ ], 
+ "poster": "https://www.imdb.com/title/tt3322420/mediaviewer/rm857046528", 
+ "genre": [
+  "Comedy", 
+  "Drama"
+ ], 
+ "runtime": "146 min", 
+ "caste": [
+  {
+   "imbd id": "nm2144007", 
+   "imbd name": "Kangana Ranaut"
+  }, 
+  {
+   "imbd id": "nm3822770", 
+   "imbd name": "Rajkummar Rao"
+  }, 
+  {
+   "imbd id": "nm3629863", 
+   "imbd name": "Lisa Haydon"
+  }, 
+  {
+   "imbd id": "nm7832790", 
+   "imbd name": "Jeffrey Ho"
+  }, 
+  {
+   "imbd id": "nm5062737", 
+   "imbd name": "Marco Canadea"
+  }, 
+  {
+   "imbd id": "nm6141087", 
+   "imbd name": "Guithob Joseph"
+  }, 
+  {
+   "imbd id": "nm0863171", 
+   "imbd name": "Yogendra Tiku"
+  }, 
+  {
+   "imbd id": "nm7478179", 
+   "imbd name": "Alka Badola Kaushal"
+  }, 
+  {
+   "imbd id": "nm7303322", 
+   "imbd name": "Tripta Lakhanpal"
+  }, 
+  {
+   "imbd id": "nm4496851", 
+   "imbd name": "Chinmay Chandraunshuh"
+  }, 
+  {
+   "imbd id": "nm4540508", 
+   "imbd name": "Nayani Dixit"
+  }, 
+  {
+   "imbd id": "nm3356469", 
+   "imbd name": "Sabeeka Imam"
+  }, 
+  {
+   "imbd id": "nm7640228", 
+   "imbd name": "Ayaan Malik"
+  }, 
+  {
+   "imbd id": "nm7640229", 
+   "imbd name": "Ramesh Kalra"
+  }, 
+  {
+   "imbd id": "nm5676789", 
+   "imbd name": "Poonam Mathur"
+  }
+ ]
+}

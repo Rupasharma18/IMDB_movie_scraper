@@ -1,0 +1,82 @@
+{
+ "bio": "A short-term memory loss patient sets out on his journey to avenge the death of his beloved girl.", 
+ "name": "Ghajini", 
+ "language": [
+  "Hindi", 
+  "Urdu"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "A.R. Murugadoss"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1166100/mediaviewer/rm3257294592", 
+ "genre": [
+  "Action", 
+  "Drama", 
+  "Mystery"
+ ], 
+ "caste": [
+  {
+   "imbd id": "nm0451148", 
+   "imbd name": "Aamir Khan"
+  }, 
+  {
+   "imbd id": "nm1821791", 
+   "imbd name": "Asin"
+  }, 
+  {
+   "imbd id": "nm2318317", 
+   "imbd name": "Jiah Khan"
+  }, 
+  {
+   "imbd id": "nm0025627", 
+   "imbd name": "Tinnu Anand"
+  }, 
+  {
+   "imbd id": "nm1004887", 
+   "imbd name": "Pradeep Singh Rawat"
+  }, 
+  {
+   "imbd id": "nm2382945", 
+   "imbd name": "Asif Ahmed"
+  }, 
+  {
+   "imbd id": "nm3133202", 
+   "imbd name": "John Cardiel"
+  }, 
+  {
+   "imbd id": "nm2913438", 
+   "imbd name": "Vibha Chhibber"
+  }, 
+  {
+   "imbd id": "nm4482766", 
+   "imbd name": "Neville Dadachanji"
+  }, 
+  {
+   "imbd id": "nm3956240", 
+   "imbd name": "Salim Fatehi"
+  }, 
+  {
+   "imbd id": "nm4111046", 
+   "imbd name": "Mahendra Gole"
+  }, 
+  {
+   "imbd id": "nm1571487", 
+   "imbd name": "Sunil Grover"
+  }, 
+  {
+   "imbd id": "nm4110461", 
+   "imbd name": "Simon Hewitt"
+  }, 
+  {
+   "imbd id": "nm4109641", 
+   "imbd name": "Kiran Deep Jagi"
+  }, 
+  {
+   "imbd id": "nm4110585", 
+   "imbd name": "Raj Jamdade"
+  }
+ ]
+}

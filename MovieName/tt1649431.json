@@ -1,0 +1,82 @@
+{
+ "bio": "A terrorist threat puts five people in jeopardy.", 
+ "name": "Vedam", 
+ "language": [
+  "Telugu"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Radha Krishna Jagarlamudi"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1649431/mediaviewer/rm2238208000", 
+ "genre": [
+  "Action", 
+  "Crime", 
+  "Drama"
+ ], 
+ "runtime": "135 min", 
+ "caste": [
+  {
+   "imbd id": "nm2486247", 
+   "imbd name": "Manoj Kumar Manchu"
+  }, 
+  {
+   "imbd id": "nm1084853", 
+   "imbd name": "Allu Arjun"
+  }, 
+  {
+   "imbd id": "nm2011932", 
+   "imbd name": "Anushka Shetty"
+  }, 
+  {
+   "imbd id": "nm0048075", 
+   "imbd name": "Manoj Bajpayee"
+  }, 
+  {
+   "imbd id": "nm3945388", 
+   "imbd name": "Nagayya"
+  }, 
+  {
+   "imbd id": "nm3945751", 
+   "imbd name": "Deeksha Seth"
+  }, 
+  {
+   "imbd id": "nm3262096", 
+   "imbd name": "Lekha Washington"
+  }, 
+  {
+   "imbd id": "nm0103977", 
+   "imbd name": "Brahmanandam"
+  }, 
+  {
+   "imbd id": "nm3884155", 
+   "imbd name": "Siya"
+  }, 
+  {
+   "imbd id": "nm1152338", 
+   "imbd name": "Satyam Rajesh"
+  }, 
+  {
+   "imbd id": "nm3046678", 
+   "imbd name": "Ravi Prakash"
+  }, 
+  {
+   "imbd id": "nm0692586", 
+   "imbd name": "Krishna Murali Posani"
+  }, 
+  {
+   "imbd id": "nm2179000", 
+   "imbd name": "Pruthvi"
+  }, 
+  {
+   "imbd id": "nm1298052", 
+   "imbd name": "Raghu Babu"
+  }, 
+  {
+   "imbd id": "nm4442569", 
+   "imbd name": "Joy Badlani"
+  }
+ ]
+}

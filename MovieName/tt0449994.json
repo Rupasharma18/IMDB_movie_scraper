@@ -1,0 +1,83 @@
+{
+ "bio": "A sixteenth century love story about a marriage of alliance that gave birth to true love between a great Mughal emperor, Akbar, and a Rajput princess, Jodha.", 
+ "name": "JodhaaAkbar", 
+ "language": [
+  "Hindi", 
+  "Urdu"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Ashutosh Gowariker"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0449994/mediaviewer/rm533108224", 
+ "genre": [
+  "Action", 
+  "Drama", 
+  "History"
+ ], 
+ "runtime": "213 min", 
+ "caste": [
+  {
+   "imbd id": "nm0004335", 
+   "imbd name": "Hrithik Roshan"
+  }, 
+  {
+   "imbd id": "nm0706787", 
+   "imbd name": "Aishwarya Rai Bachchan"
+  }, 
+  {
+   "imbd id": "nm1399243", 
+   "imbd name": "Sonu Sood"
+  }, 
+  {
+   "imbd id": "nm0464521", 
+   "imbd name": "Poonam Sinha"
+  }, 
+  {
+   "imbd id": "nm0611663", 
+   "imbd name": "Suhasini Mulay"
+  }, 
+  {
+   "imbd id": "nm0038023", 
+   "imbd name": "Ila Arun"
+  }, 
+  {
+   "imbd id": "nm0613417", 
+   "imbd name": "Raza Murad"
+  }, 
+  {
+   "imbd id": "nm0451425", 
+   "imbd name": "Kulbhushan Kharbanda"
+  }, 
+  {
+   "imbd id": "nm0657184", 
+   "imbd name": "Surendra Pal"
+  }, 
+  {
+   "imbd id": "nm0900267", 
+   "imbd name": "Rajesh Vivek"
+  }, 
+  {
+   "imbd id": "nm0616111", 
+   "imbd name": "Pramod Moutho"
+  }, 
+  {
+   "imbd id": "nm1584129", 
+   "imbd name": "Vishwa Mohan Badola"
+  }, 
+  {
+   "imbd id": "nm3473172", 
+   "imbd name": "Manava Naik"
+  }, 
+  {
+   "imbd id": "nm1801750", 
+   "imbd name": "Disha Vakani"
+  }, 
+  {
+   "imbd id": "nm0409788", 
+   "imbd name": "Dilnaz Irani"
+  }
+ ]
+}

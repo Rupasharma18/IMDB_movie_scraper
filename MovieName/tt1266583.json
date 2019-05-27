@@ -1,0 +1,80 @@
+{
+ "bio": "Five people whose lives are affected by the 2006 Mumbai train bombings.", 
+ "name": "MumbaiMeriJaan", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Nishikant Kamat"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1266583/mediaviewer/rm510616576", 
+ "genre": [
+  "Drama"
+ ], 
+ "runtime": "134 min", 
+ "caste": [
+  {
+   "imbd id": "nm0712546", 
+   "imbd name": "Paresh Rawal"
+  }, 
+  {
+   "imbd id": "nm1946407", 
+   "imbd name": "Kay Kay Menon"
+  }, 
+  {
+   "imbd id": "nm0451234", 
+   "imbd name": "Irrfan Khan"
+  }, 
+  {
+   "imbd id": "nm0534856", 
+   "imbd name": "Madhavan"
+  }, 
+  {
+   "imbd id": "nm1675786", 
+   "imbd name": "Soha Ali Khan"
+  }, 
+  {
+   "imbd id": "nm3237860", 
+   "imbd name": "Sachin Pathak"
+  }, 
+  {
+   "imbd id": "nm3001807", 
+   "imbd name": "Santosh Juvekar"
+  }, 
+  {
+   "imbd id": "nm3253318", 
+   "imbd name": "Kavin Dave"
+  }, 
+  {
+   "imbd id": "nm3253131", 
+   "imbd name": "Syed Rizwan Ahmed"
+  }, 
+  {
+   "imbd id": "nm1274869", 
+   "imbd name": "Rajesh Bhosle"
+  }, 
+  {
+   "imbd id": "nm3252731", 
+   "imbd name": "Saksham Dayma"
+  }, 
+  {
+   "imbd id": "nm3253964", 
+   "imbd name": "Aakash"
+  }, 
+  {
+   "imbd id": "nm3252857", 
+   "imbd name": "Jeetendra Rai"
+  }, 
+  {
+   "imbd id": "nm1282863", 
+   "imbd name": "Sameer Dharmadhikari"
+  }, 
+  {
+   "imbd id": "nm3250873", 
+   "imbd name": "Gaurav Dhir"
+  }
+ ]
+}

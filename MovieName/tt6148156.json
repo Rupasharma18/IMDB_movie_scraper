@@ -1,0 +1,83 @@
+{
+ "bio": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.", 
+ "name": "VikramVedha", 
+ "language": [
+  "Tamil", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Gayatri"
+ ], 
+ "poster": "https://www.imdb.com/title/tt6148156/mediaviewer/rm593914880", 
+ "genre": [
+  "Action", 
+  "Crime", 
+  "Thriller"
+ ], 
+ "runtime": "147 min", 
+ "caste": [
+  {
+   "imbd id": "nm4043111", 
+   "imbd name": "Vijay Sethupathi"
+  }, 
+  {
+   "imbd id": "nm0534856", 
+   "imbd name": "Madhavan"
+  }, 
+  {
+   "imbd id": "nm7744845", 
+   "imbd name": "Shraddha Srinath"
+  }, 
+  {
+   "imbd id": "nm4174212", 
+   "imbd name": "Varalaxmi Sarathkumar"
+  }, 
+  {
+   "imbd id": "nm6453091", 
+   "imbd name": "Kathir"
+  }, 
+  {
+   "imbd id": "nm5724719", 
+   "imbd name": "Achyuth Kumar"
+  }, 
+  {
+   "imbd id": "nm8904193", 
+   "imbd name": "Manikandan"
+  }, 
+  {
+   "imbd id": "nm5782889", 
+   "imbd name": "Hareesh Peradi"
+  }, 
+  {
+   "imbd id": "nm5297321", 
+   "imbd name": "Baby Vaishnavi"
+  }, 
+  {
+   "imbd id": "nm3607395", 
+   "imbd name": "Prem"
+  }, 
+  {
+   "imbd id": "nm6388679", 
+   "imbd name": "E. Ramdoss"
+  }, 
+  {
+   "imbd id": "nm8995905", 
+   "imbd name": "Vivek Prasanna"
+  }, 
+  {
+   "imbd id": "nm6046289", 
+   "imbd name": "Gowri Lakshmi"
+  }, 
+  {
+   "imbd id": "nm5000739", 
+   "imbd name": "Sugunthan"
+  }, 
+  {
+   "imbd id": "nm5408510", 
+   "imbd name": "Rajkumar"
+  }
+ ]
+}

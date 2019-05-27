@@ -1,0 +1,73 @@
+{
+ "bio": "A man is embarrassed when he finds out his mother is pregnant.", 
+ "name": "BadhaaiHo", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Amit Ravindernath Sharma"
+ ], 
+ "poster": "https://www.imdb.com/title/tt7725596/mediaviewer/rm2055830528", 
+ "genre": [
+  "Comedy", 
+  "Drama"
+ ], 
+ "runtime": "124 min", 
+ "caste": [
+  {
+   "imbd id": "nm4731677", 
+   "imbd name": "Ayushmann Khurrana"
+  }, 
+  {
+   "imbd id": "nm7621667", 
+   "imbd name": "Sanya Malhotra"
+  }, 
+  {
+   "imbd id": "nm0348481", 
+   "imbd name": "Neena Gupta"
+  }, 
+  {
+   "imbd id": "nm0710549", 
+   "imbd name": "Gajraj Rao"
+  }, 
+  {
+   "imbd id": "nm0149441", 
+   "imbd name": "Sheeba Chaddha"
+  }, 
+  {
+   "imbd id": "nm0797773", 
+   "imbd name": "Surekha Sikri"
+  }, 
+  {
+   "imbd id": "nm7156561", 
+   "imbd name": "Shardul Rana"
+  }, 
+  {
+   "imbd id": "nm8313060", 
+   "imbd name": "Rahul Tewari"
+  }, 
+  {
+   "imbd id": "nm9577426", 
+   "imbd name": "Arun Kalra"
+  }, 
+  {
+   "imbd id": "nm1320935", 
+   "imbd name": "Alka Amin"
+  }, 
+  {
+   "imbd id": "nm3438304", 
+   "imbd name": "Manoj Bakshi"
+  }, 
+  {
+   "imbd id": "nm7478179", 
+   "imbd name": "Alka Badola Kaushal"
+  }, 
+  {
+   "imbd id": "nm8738938", 
+   "imbd name": "Vimi Mehta"
+  }
+ ]
+}

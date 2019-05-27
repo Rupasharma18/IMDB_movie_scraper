@@ -1,0 +1,83 @@
+{
+ "bio": "An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.", 
+ "name": "Lakshya", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Farhan Akhtar"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0323013/mediaviewer/rm1269585152", 
+ "genre": [
+  "Action", 
+  "Drama", 
+  "Romance"
+ ], 
+ "runtime": "186 min", 
+ "caste": [
+  {
+   "imbd id": "nm0000821", 
+   "imbd name": "Amitabh Bachchan"
+  }, 
+  {
+   "imbd id": "nm0004335", 
+   "imbd name": "Hrithik Roshan"
+  }, 
+  {
+   "imbd id": "nm0006689", 
+   "imbd name": "Preity Zinta"
+  }, 
+  {
+   "imbd id": "nm0700875", 
+   "imbd name": "Om Puri"
+  }, 
+  {
+   "imbd id": "nm2528716", 
+   "imbd name": "Sharad S. Kapoor"
+  }, 
+  {
+   "imbd id": "nm0958861", 
+   "imbd name": "Raj Zutshi"
+  }, 
+  {
+   "imbd id": "nm0839820", 
+   "imbd name": "Sushant Singh"
+  }, 
+  {
+   "imbd id": "nm1267998", 
+   "imbd name": "Prashant Chianani"
+  }, 
+  {
+   "imbd id": "nm1205687", 
+   "imbd name": "Shakeel Khan"
+  }, 
+  {
+   "imbd id": "nm1249116", 
+   "imbd name": "Ranvir Shorey"
+  }, 
+  {
+   "imbd id": "nm4234608", 
+   "imbd name": "Arav Chowdharry"
+  }, 
+  {
+   "imbd id": "nm1753578", 
+   "imbd name": "Ajai Jose"
+  }, 
+  {
+   "imbd id": "nm0820282", 
+   "imbd name": "Aditya Srivastava"
+  }, 
+  {
+   "imbd id": "nm1571393", 
+   "imbd name": "Abir Goswami"
+  }, 
+  {
+   "imbd id": "nm0786033", 
+   "imbd name": "Parmeet Sethi"
+  }
+ ]
+}

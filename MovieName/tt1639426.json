@@ -1,0 +1,80 @@
+{
+ "bio": "Expelled from his school, a 16-year old boy returns home to his abusive and oppressive father.", 
+ "name": "Udaan", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Vikramaditya Motwane"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1639426/mediaviewer/rm799049472", 
+ "genre": [
+  "Drama"
+ ], 
+ "runtime": "134 min", 
+ "caste": [
+  {
+   "imbd id": "nm3888054", 
+   "imbd name": "Rajat Barmecha"
+  }, 
+  {
+   "imbd id": "nm1206811", 
+   "imbd name": "Sanjay Gandhi"
+  }, 
+  {
+   "imbd id": "nm0747172", 
+   "imbd name": "Ronit Roy"
+  }, 
+  {
+   "imbd id": "nm3190972", 
+   "imbd name": "Manjot Singh"
+  }, 
+  {
+   "imbd id": "nm0438632", 
+   "imbd name": "Ram Kapoor"
+  }, 
+  {
+   "imbd id": "nm3896575", 
+   "imbd name": "Raja Hudda"
+  }, 
+  {
+   "imbd id": "nm3896471", 
+   "imbd name": "Varun Khettry"
+  }, 
+  {
+   "imbd id": "nm1022182", 
+   "imbd name": "Shashi Sharma"
+  }, 
+  {
+   "imbd id": "nm4126850", 
+   "imbd name": "Khushkeran Singh Sandhu"
+  }, 
+  {
+   "imbd id": "nm2893551", 
+   "imbd name": "Jayanta Das"
+  }, 
+  {
+   "imbd id": "nm4718438", 
+   "imbd name": "Akantuk Sharma"
+  }, 
+  {
+   "imbd id": "nm4717596", 
+   "imbd name": "Sahil Sahota"
+  }, 
+  {
+   "imbd id": "nm3888908", 
+   "imbd name": "Aayan Boradia"
+  }, 
+  {
+   "imbd id": "nm4687359", 
+   "imbd name": "Sonia Raisurana"
+  }, 
+  {
+   "imbd id": "nm4126616", 
+   "imbd name": "Mohammad Nizam"
+  }
+ ]
+}

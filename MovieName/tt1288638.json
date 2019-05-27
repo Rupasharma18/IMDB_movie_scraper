@@ -1,0 +1,83 @@
+{
+ "bio": "A man who loves to make \"to-do lists\" makes one last bucket list when he realizes he is about to die.", 
+ "name": "Dasvidaniya", 
+ "language": [
+  "Hindi", 
+  "English", 
+  "Russian"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Shashant Shah"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1288638/mediaviewer/rm692838400", 
+ "genre": [
+  "Comedy", 
+  "Drama"
+ ], 
+ "runtime": "113 min", 
+ "caste": [
+  {
+   "imbd id": "nm0665555", 
+   "imbd name": "Vinay Pathak"
+  }, 
+  {
+   "imbd id": "nm1934428", 
+   "imbd name": "Sarita Joshi"
+  }, 
+  {
+   "imbd id": "nm0438494", 
+   "imbd name": "Rajat Kapoor"
+  }, 
+  {
+   "imbd id": "nm0795661", 
+   "imbd name": "Saurabh Shukla"
+  }, 
+  {
+   "imbd id": "nm1226448", 
+   "imbd name": "Neha Dhupia"
+  }, 
+  {
+   "imbd id": "nm1191768", 
+   "imbd name": "Joy Fernandes"
+  }, 
+  {
+   "imbd id": "nm3139126", 
+   "imbd name": "Manoylo Svitlana"
+  }, 
+  {
+   "imbd id": "nm1463550", 
+   "imbd name": "Gaurav Gera"
+  }, 
+  {
+   "imbd id": "nm0683496", 
+   "imbd name": "Suchitra Pillai"
+  }, 
+  {
+   "imbd id": "nm3126754", 
+   "imbd name": "Purbi Joshi"
+  }, 
+  {
+   "imbd id": "nm2240044", 
+   "imbd name": "Brijendra Kala"
+  }, 
+  {
+   "imbd id": "nm1670264", 
+   "imbd name": "Ikhlaq Khan"
+  }, 
+  {
+   "imbd id": "nm3125945", 
+   "imbd name": "Sachin Khurana"
+  }, 
+  {
+   "imbd id": "nm1863497", 
+   "imbd name": "Chandan Bisht"
+  }, 
+  {
+   "imbd id": "nm0620816", 
+   "imbd name": "Kishore Nandlaskar"
+  }
+ ]
+}

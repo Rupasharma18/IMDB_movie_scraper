@@ -1,0 +1,82 @@
+{
+ "bio": "Three cousins set out to fulfill their Bangalore dreams.", 
+ "name": "BangaloreDays", 
+ "language": [
+  "Malayalam"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Anjali Menon"
+ ], 
+ "poster": "https://www.imdb.com/title/tt3668162/mediaviewer/rm3363666176", 
+ "genre": [
+  "Comedy", 
+  "Drama", 
+  "Romance"
+ ], 
+ "runtime": "171 min", 
+ "caste": [
+  {
+   "imbd id": "nm2601111", 
+   "imbd name": "Nazriya Nazim"
+  }, 
+  {
+   "imbd id": "nm4028885", 
+   "imbd name": "Nivin Pauly"
+  }, 
+  {
+   "imbd id": "nm4921260", 
+   "imbd name": "Dulquer Salmaan"
+  }, 
+  {
+   "imbd id": "nm1335704", 
+   "imbd name": "Fahadh Faasil"
+  }, 
+  {
+   "imbd id": "nm2527173", 
+   "imbd name": "Parvathy"
+  }, 
+  {
+   "imbd id": "nm1589340", 
+   "imbd name": "Isha Talwar"
+  }, 
+  {
+   "imbd id": "nm3383930", 
+   "imbd name": "Nithya Menon"
+  }, 
+  {
+   "imbd id": "nm1427780", 
+   "imbd name": "Kalpana"
+  }, 
+  {
+   "imbd id": "nm0683477", 
+   "imbd name": "Maniyanpilla Raju"
+  }, 
+  {
+   "imbd id": "nm0695595", 
+   "imbd name": "Praveena"
+  }, 
+  {
+   "imbd id": "nm1066795", 
+   "imbd name": "Vijayaraghavan"
+  }, 
+  {
+   "imbd id": "nm7328054", 
+   "imbd name": "Sijoy Varghese"
+  }, 
+  {
+   "imbd id": "nm6325282", 
+   "imbd name": "Sajid Yahiya"
+  }, 
+  {
+   "imbd id": "nm0693092", 
+   "imbd name": "Prathap Pothen"
+  }, 
+  {
+   "imbd id": "nm1110573", 
+   "imbd name": "Vinaya Prasad"
+  }
+ ]
+}

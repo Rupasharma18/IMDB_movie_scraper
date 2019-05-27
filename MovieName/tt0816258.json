@@ -1,0 +1,81 @@
+{
+ "bio": "A local killer joins an underworld gang with two intentions: one for earning money and the other, for an intention unknown to everyone else.", 
+ "name": "Pokiri", 
+ "language": [
+  "Telugu"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Puri Jagannadh"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0816258/mediaviewer/rm2777487872", 
+ "genre": [
+  "Action", 
+  "Crime", 
+  "Thriller"
+ ], 
+ "caste": [
+  {
+   "imbd id": "nm1121870", 
+   "imbd name": "Mahesh Babu"
+  }, 
+  {
+   "imbd id": "nm2299825", 
+   "imbd name": "Ileana D'Cruz"
+  }, 
+  {
+   "imbd id": "nm0695177", 
+   "imbd name": "Prakash Raj"
+  }, 
+  {
+   "imbd id": "nm0621937", 
+   "imbd name": "Nassar"
+  }, 
+  {
+   "imbd id": "nm0896573", 
+   "imbd name": "Ashish Vidyarthi"
+  }, 
+  {
+   "imbd id": "nm0793851", 
+   "imbd name": "Sayaji Shinde"
+  }, 
+  {
+   "imbd id": "nm0103977", 
+   "imbd name": "Brahmanandam"
+  }, 
+  {
+   "imbd id": "nm0019382", 
+   "imbd name": "Ali"
+  }, 
+  {
+   "imbd id": "nm0893454", 
+   "imbd name": "Venu Madhav"
+  }, 
+  {
+   "imbd id": "nm1892086", 
+   "imbd name": "Mumait Khan"
+  }, 
+  {
+   "imbd id": "nm0837189", 
+   "imbd name": "Sudha"
+  }, 
+  {
+   "imbd id": "nm2496992", 
+   "imbd name": "Ajay"
+  }, 
+  {
+   "imbd id": "nm3749057", 
+   "imbd name": "Ganesh Babu"
+  }, 
+  {
+   "imbd id": "nm3953246", 
+   "imbd name": "Master Bharath"
+  }, 
+  {
+   "imbd id": "nm4626261", 
+   "imbd name": "Isai"
+  }
+ ]
+}

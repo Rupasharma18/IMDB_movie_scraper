@@ -1,0 +1,83 @@
+{
+ "bio": "Neerja is the story of the courageous Neerja Bhanot, who sacrificed her life while protecting the lives of 359 passengers on the Pan Am flight 73 in 1986. The flight was hijacked by a terrorist organization.", 
+ "name": "Neerja", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Ram Madhvani"
+ ], 
+ "poster": "https://www.imdb.com/title/tt5286444/mediaviewer/rm353989376", 
+ "genre": [
+  "Biography", 
+  "Drama", 
+  "Thriller"
+ ], 
+ "runtime": "122 min", 
+ "caste": [
+  {
+   "imbd id": "nm2128238", 
+   "imbd name": "Sonam Kapoor"
+  }, 
+  {
+   "imbd id": "nm0000818", 
+   "imbd name": "Shabana Azmi"
+  }, 
+  {
+   "imbd id": "nm0863171", 
+   "imbd name": "Yogendra Tiku"
+  }, 
+  {
+   "imbd id": "nm5228901", 
+   "imbd name": "Abrar Zahoor"
+  }, 
+  {
+   "imbd id": "nm6845061", 
+   "imbd name": "Jim Sarbh"
+  }, 
+  {
+   "imbd id": "nm7943002", 
+   "imbd name": "Ali Baldiwala"
+  }, 
+  {
+   "imbd id": "nm7943138", 
+   "imbd name": "Vikrant Singta"
+  }, 
+  {
+   "imbd id": "nm7805689", 
+   "imbd name": "Kirti Adarkar"
+  }, 
+  {
+   "imbd id": "nm3124376", 
+   "imbd name": "Parthaa Akerkar"
+  }, 
+  {
+   "imbd id": "nm5854811", 
+   "imbd name": "Hayder Ali"
+  }, 
+  {
+   "imbd id": "nm8173733", 
+   "imbd name": "Arjun Aneja"
+  }, 
+  {
+   "imbd id": "nm9377852", 
+   "imbd name": "Yugesh Anil"
+  }, 
+  {
+   "imbd id": "nm7937405", 
+   "imbd name": "Bobby Arora"
+  }, 
+  {
+   "imbd id": "nm7939205", 
+   "imbd name": "Rohit Assija"
+  }, 
+  {
+   "imbd id": "nm3424525", 
+   "imbd name": "Sabreen Baker"
+  }
+ ]
+}

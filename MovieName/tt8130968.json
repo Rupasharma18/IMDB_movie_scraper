@@ -1,0 +1,82 @@
+{
+ "bio": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.", 
+ "name": "Badla", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Sujoy Ghosh"
+ ], 
+ "poster": "https://www.imdb.com/title/tt8130968/mediaviewer/rm422669824", 
+ "genre": [
+  "Crime", 
+  "Drama", 
+  "Mystery"
+ ], 
+ "runtime": "118 min", 
+ "caste": [
+  {
+   "imbd id": "nm0000821", 
+   "imbd name": "Amitabh Bachchan"
+  }, 
+  {
+   "imbd id": "nm3966456", 
+   "imbd name": "Tapsee Pannu"
+  }, 
+  {
+   "imbd id": "nm0802080", 
+   "imbd name": "Amrita Singh"
+  }, 
+  {
+   "imbd id": "nm9361601", 
+   "imbd name": "Begonia Villalba"
+  }, 
+  {
+   "imbd id": "nm3379444", 
+   "imbd name": "Antonio Aakeel"
+  }, 
+  {
+   "imbd id": "nm5452875", 
+   "imbd name": "Tony Luke"
+  }, 
+  {
+   "imbd id": "nm1964139", 
+   "imbd name": "Manav Kaul"
+  }, 
+  {
+   "imbd id": "nm1336722", 
+   "imbd name": "Denzil Smith"
+  }, 
+  {
+   "imbd id": "nm0315508", 
+   "imbd name": "Tanveer Ghani"
+  }, 
+  {
+   "imbd id": "nm3123870", 
+   "imbd name": "Mark Mansfield"
+  }, 
+  {
+   "imbd id": "nm1056085", 
+   "imbd name": "Rachel Flynn"
+  }, 
+  {
+   "imbd id": "nm5413305", 
+   "imbd name": "Daniel O'Kane"
+  }, 
+  {
+   "imbd id": "nm3807209", 
+   "imbd name": "Vincent Woods"
+  }, 
+  {
+   "imbd id": "nm3019501", 
+   "imbd name": "Shome Makhija"
+  }, 
+  {
+   "imbd id": "nm9896474", 
+   "imbd name": "Ammar Taalwala"
+  }
+ ]
+}

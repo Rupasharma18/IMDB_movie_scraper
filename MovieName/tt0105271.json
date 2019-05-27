@@ -1,0 +1,65 @@
+{
+ "bio": "A woman from a village in Tamil Nadu marries a sophisticated city dweller and moves with him to Kashmir, where all is rosy - until he gets kidnapped by militants.", 
+ "name": "Roja", 
+ "language": [
+  "Tamil", 
+  "Hindi", 
+  "Marathi", 
+  "Telugu"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Mani Ratnam"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0105271/mediaviewer/rm3332246272", 
+ "genre": [
+  "Action", 
+  "Drama", 
+  "Romance"
+ ], 
+ "runtime": "137 min", 
+ "caste": [
+  {
+   "imbd id": "nm0841552", 
+   "imbd name": "Arvind Swamy"
+  }, 
+  {
+   "imbd id": "nm0534866", 
+   "imbd name": "Madhoo"
+  }, 
+  {
+   "imbd id": "nm0438488", 
+   "imbd name": "Pankaj Kapur"
+  }, 
+  {
+   "imbd id": "nm0621937", 
+   "imbd name": "Nassar"
+  }, 
+  {
+   "imbd id": "nm1064300", 
+   "imbd name": "Shiva Rindani"
+  }, 
+  {
+   "imbd id": "nm0417301", 
+   "imbd name": "Janagaraj"
+  }, 
+  {
+   "imbd id": "nm0883305", 
+   "imbd name": "Vaishnavi"
+  }, 
+  {
+   "imbd id": "nm1696660", 
+   "imbd name": "C.K. Saraswathi"
+  }, 
+  {
+   "imbd id": "nm3118248", 
+   "imbd name": "Sathyapriya"
+  }, 
+  {
+   "imbd id": "nm0837674", 
+   "imbd name": "Sujatha"
+  }
+ ]
+}

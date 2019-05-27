@@ -1,0 +1,81 @@
+{
+ "bio": "Iqbal, the deaf and mute son of a farmer, has a passion for the game of cricket and seeks the tutelage of a washed-up, alcoholic ex-player.", 
+ "name": "Iqbal", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Nagesh Kukunoor"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0453729/mediaviewer/rm3101883136", 
+ "genre": [
+  "Drama", 
+  "Sport"
+ ], 
+ "runtime": "132 min", 
+ "caste": [
+  {
+   "imbd id": "nm1662277", 
+   "imbd name": "Shreyas Talpade"
+  }, 
+  {
+   "imbd id": "nm0787462", 
+   "imbd name": "Naseeruddin Shah"
+  }, 
+  {
+   "imbd id": "nm1284108", 
+   "imbd name": "Shweta Prasad"
+  }, 
+  {
+   "imbd id": "nm1244971", 
+   "imbd name": "Yatin Karyekar"
+  }, 
+  {
+   "imbd id": "nm2047635", 
+   "imbd name": "Prateeksha Lonkar"
+  }, 
+  {
+   "imbd id": "nm0439784", 
+   "imbd name": "Girish Karnad"
+  }, 
+  {
+   "imbd id": "nm2169647", 
+   "imbd name": "Dilip Salgaonkar"
+  }, 
+  {
+   "imbd id": "nm2167080", 
+   "imbd name": "Jyoti Joshi"
+  }, 
+  {
+   "imbd id": "nm2217380", 
+   "imbd name": "Aadarsh Balakrishna"
+  }, 
+  {
+   "imbd id": "nm2217035", 
+   "imbd name": "Gururaj Manepalli"
+  }, 
+  {
+   "imbd id": "nm2218380", 
+   "imbd name": "Rajita Joshi"
+  }, 
+  {
+   "imbd id": "nm2215725", 
+   "imbd name": "Srikanth Chitrao"
+  }, 
+  {
+   "imbd id": "nm0408373", 
+   "imbd name": "Vikram Inamdar"
+  }, 
+  {
+   "imbd id": "nm1454678", 
+   "imbd name": "Elahe Hiptoola"
+  }, 
+  {
+   "imbd id": "nm1747795", 
+   "imbd name": "Balaji Manohar"
+  }
+ ]
+}

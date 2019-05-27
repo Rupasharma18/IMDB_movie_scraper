@@ -1,0 +1,82 @@
+{
+ "bio": "When three young women are implicated in a crime, a retired lawyer steps forward to help them clear their names.", 
+ "name": "Pink", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Aniruddha Roy Chowdhury"
+ ], 
+ "poster": "https://www.imdb.com/title/tt5571734/mediaviewer/rm3520399360", 
+ "genre": [
+  "Drama", 
+  "Thriller"
+ ], 
+ "runtime": "136 min", 
+ "caste": [
+  {
+   "imbd id": "nm3966456", 
+   "imbd name": "Tapsee Pannu"
+  }, 
+  {
+   "imbd id": "nm0000821", 
+   "imbd name": "Amitabh Bachchan"
+  }, 
+  {
+   "imbd id": "nm4112854", 
+   "imbd name": "Kirti Kulhari"
+  }, 
+  {
+   "imbd id": "nm8019376", 
+   "imbd name": "Andrea Tariang"
+  }, 
+  {
+   "imbd id": "nm0592795", 
+   "imbd name": "Piyush Mishra"
+  }, 
+  {
+   "imbd id": "nm1979275", 
+   "imbd name": "Angad Bedi"
+  }, 
+  {
+   "imbd id": "nm1994146", 
+   "imbd name": "Vijay Varma"
+  }, 
+  {
+   "imbd id": "nm3883134", 
+   "imbd name": "Raashul Tandon"
+  }, 
+  {
+   "imbd id": "nm7517010", 
+   "imbd name": "Tushar Pandey"
+  }, 
+  {
+   "imbd id": "nm0154122", 
+   "imbd name": "Dhritiman Chatterjee"
+  }, 
+  {
+   "imbd id": "nm0788164", 
+   "imbd name": "Mamata Shankar"
+  }, 
+  {
+   "imbd id": "nm5645491", 
+   "imbd name": "Amit Baisoya"
+  }, 
+  {
+   "imbd id": "nm7507760", 
+   "imbd name": "S.K. Batra"
+  }, 
+  {
+   "imbd id": "nm8349000", 
+   "imbd name": "Prashant Bhagia"
+  }, 
+  {
+   "imbd id": "nm5448327", 
+   "imbd name": "Arjun Chakraborty"
+  }
+ ]
+}

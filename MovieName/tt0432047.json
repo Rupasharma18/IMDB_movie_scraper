@@ -1,0 +1,83 @@
+{
+ "bio": "The authority of a man, who runs a parallel government in Mumbai, is challenged. His son rises to face his enemies.", 
+ "name": "Sarkar", 
+ "language": [
+  "Hindi", 
+  "Marathi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Ram Gopal Varma"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0432047/mediaviewer/rm2920035584", 
+ "genre": [
+  "Action", 
+  "Crime", 
+  "Drama"
+ ], 
+ "runtime": "124 min", 
+ "caste": [
+  {
+   "imbd id": "nm0000821", 
+   "imbd name": "Amitabh Bachchan"
+  }, 
+  {
+   "imbd id": "nm0045393", 
+   "imbd name": "Abhishek Bachchan"
+  }, 
+  {
+   "imbd id": "nm1946407", 
+   "imbd name": "Kay Kay Menon"
+  }, 
+  {
+   "imbd id": "nm0665554", 
+   "imbd name": "Supriya Pathak"
+  }, 
+  {
+   "imbd id": "nm1229940", 
+   "imbd name": "Katrina Kaif"
+  }, 
+  {
+   "imbd id": "nm0849500", 
+   "imbd name": "Tanishaa Mukerji"
+  }, 
+  {
+   "imbd id": "nm1360697", 
+   "imbd name": "Rukhsar Rehman"
+  }, 
+  {
+   "imbd id": "nm0451600", 
+   "imbd name": "Anupam Kher"
+  }, 
+  {
+   "imbd id": "nm0004469", 
+   "imbd name": "Srinivasa Rao Kota"
+  }, 
+  {
+   "imbd id": "nm1025262", 
+   "imbd name": "Deepak Shirke"
+  }, 
+  {
+   "imbd id": "nm0019427", 
+   "imbd name": "Ishrat Ali"
+  }, 
+  {
+   "imbd id": "nm1664541", 
+   "imbd name": "Zakir Hussain"
+  }, 
+  {
+   "imbd id": "nm1224134", 
+   "imbd name": "Ravi Kale"
+  }, 
+  {
+   "imbd id": "nm0561360", 
+   "imbd name": "Raju Mavani"
+  }, 
+  {
+   "imbd id": "nm0420091", 
+   "imbd name": "Jeeva"
+  }
+ ]
+}

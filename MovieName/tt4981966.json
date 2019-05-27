@@ -1,0 +1,83 @@
+{
+ "bio": "A scientist invents a time machine, which leads to a bitter battle between his evil twin brother and his son.", 
+ "name": "24", 
+ "language": [
+  "Tamil", 
+  "Telugu"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Vikram K. Kumar"
+ ], 
+ "poster": "https://www.imdb.com/title/tt4981966/mediaviewer/rm929460480", 
+ "genre": [
+  "Action", 
+  "Sci-Fi", 
+  "Thriller"
+ ], 
+ "runtime": "164 min", 
+ "caste": [
+  {
+   "imbd id": "nm1421814", 
+   "imbd name": "Suriya"
+  }, 
+  {
+   "imbd id": "nm3606487", 
+   "imbd name": "Samantha Ruth Prabhu"
+  }, 
+  {
+   "imbd id": "nm3383930", 
+   "imbd name": "Nithya Menon"
+  }, 
+  {
+   "imbd id": "nm0764853", 
+   "imbd name": "Saranya Ponvannan"
+  }, 
+  {
+   "imbd id": "nm2496992", 
+   "imbd name": "Ajay"
+  }, 
+  {
+   "imbd id": "nm0439784", 
+   "imbd name": "Girish Karnad"
+  }, 
+  {
+   "imbd id": "nm3561501", 
+   "imbd name": "Sathyan"
+  }, 
+  {
+   "imbd id": "nm1352754", 
+   "imbd name": "Mohan Ram"
+  }, 
+  {
+   "imbd id": "nm1706602", 
+   "imbd name": "Charlie"
+  }, 
+  {
+   "imbd id": "nm4474201", 
+   "imbd name": "Appukutty"
+  }, 
+  {
+   "imbd id": "nm6678944", 
+   "imbd name": "Sudha"
+  }, 
+  {
+   "imbd id": "nm6997072", 
+   "imbd name": "Natarajan Balkrishna"
+  }, 
+  {
+   "imbd id": "nm7487782", 
+   "imbd name": "Caroline Koziol"
+  }, 
+  {
+   "imbd id": "nm7822396", 
+   "imbd name": "Advaith Ramkumar"
+  }, 
+  {
+   "imbd id": "nm8533214", 
+   "imbd name": "Harsha Vardhan"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "bio": "Biography of Savitri, an actress from South India movie industry, who ruled the industry for two decades during 50s and 60s.", 
+ "name": "Mahanati", 
+ "language": [
+  "Telugu", 
+  "Tamil"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Nag Ashwin"
+ ], 
+ "poster": "https://www.imdb.com/title/tt7465992/mediaviewer/rm426593536", 
+ "genre": [
+  "Biography", 
+  "Drama"
+ ], 
+ "runtime": "177 min", 
+ "caste": [
+  {
+   "imbd id": "nm7146337", 
+   "imbd name": "Keerthi Suresh"
+  }, 
+  {
+   "imbd id": "nm4921260", 
+   "imbd name": "Dulquer Salmaan"
+  }, 
+  {
+   "imbd id": "nm3606487", 
+   "imbd name": "Samantha Ruth Prabhu"
+  }, 
+  {
+   "imbd id": "nm4797922", 
+   "imbd name": "Vijay Deverakonda"
+  }, 
+  {
+   "imbd id": "nm0707399", 
+   "imbd name": "Rajendra Prasad"
+  }, 
+  {
+   "imbd id": "nm0080228", 
+   "imbd name": "Bhanupriya"
+  }, 
+  {
+   "imbd id": "nm0228685", 
+   "imbd name": "Divyavani"
+  }, 
+  {
+   "imbd id": "nm0595934", 
+   "imbd name": "Mohan Babu"
+  }, 
+  {
+   "imbd id": "nm0695177", 
+   "imbd name": "Prakash Raj"
+  }, 
+  {
+   "imbd id": "nm4015380", 
+   "imbd name": "Srinivas Avasarala"
+  }, 
+  {
+   "imbd id": "nm1048426", 
+   "imbd name": "Irfan"
+  }, 
+  {
+   "imbd id": "nm3602118", 
+   "imbd name": "Naga Chaitanya Akkineni"
+  }, 
+  {
+   "imbd id": "nm1007581", 
+   "imbd name": "Manobala"
+  }, 
+  {
+   "imbd id": "nm6325281", 
+   "imbd name": "Malavika Nair"
+  }, 
+  {
+   "imbd id": "nm7441022", 
+   "imbd name": "Shalini Pandey"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "bio": "A Hindu man and a Muslim woman fall in love in a small village and move to Mumbai, where they have two children. However, growing religious tensions and erupting riots threaten to tear the family apart.", 
+ "name": "Bombay", 
+ "language": [
+  "Tamil", 
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Mani Ratnam"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0112553/mediaviewer/rm4020112128", 
+ "genre": [
+  "Drama", 
+  "Musical", 
+  "Romance"
+ ], 
+ "runtime": "141 min", 
+ "caste": [
+  {
+   "imbd id": "nm0841552", 
+   "imbd name": "Arvind Swamy"
+  }, 
+  {
+   "imbd id": "nm0463539", 
+   "imbd name": "Manisha Koirala"
+  }, 
+  {
+   "imbd id": "nm0621937", 
+   "imbd name": "Nassar"
+  }, 
+  {
+   "imbd id": "nm1390149", 
+   "imbd name": "Kitty"
+  }, 
+  {
+   "imbd id": "nm1218624", 
+   "imbd name": "Master Harsha"
+  }, 
+  {
+   "imbd id": "nm1389854", 
+   "imbd name": "Master Hriday"
+  }, 
+  {
+   "imbd id": "nm0025627", 
+   "imbd name": "Tinnu Anand"
+  }, 
+  {
+   "imbd id": "nm0452021", 
+   "imbd name": "Akash Khurana"
+  }, 
+  {
+   "imbd id": "nm1377248", 
+   "imbd name": "Nagendra Prasad"
+  }, 
+  {
+   "imbd id": "nm0695177", 
+   "imbd name": "Prakash Raj"
+  }, 
+  {
+   "imbd id": "nm0007114", 
+   "imbd name": "Sonali Bendre"
+  }, 
+  {
+   "imbd id": "nm1115041", 
+   "imbd name": "M.V. Vasudeva Rao"
+  }, 
+  {
+   "imbd id": "nm1391274", 
+   "imbd name": "Ratnakar"
+  }, 
+  {
+   "imbd id": "nm0707723", 
+   "imbd name": "Rallapalli"
+  }, 
+  {
+   "imbd id": "nm1390550", 
+   "imbd name": "Deesh Mariwala"
+  }
+ ]
+}

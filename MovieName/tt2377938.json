@@ -1,0 +1,82 @@
+{
+ "bio": "A gang of con-men rob prominent rich businessmen and politicians by posing as C.B.I and income tax officers.", 
+ "name": "SpecialChabbis", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Neeraj Pandey"
+ ], 
+ "poster": "https://www.imdb.com/title/tt2377938/mediaviewer/rm2237374976", 
+ "genre": [
+  "Crime", 
+  "Drama", 
+  "Thriller"
+ ], 
+ "runtime": "144 min", 
+ "caste": [
+  {
+   "imbd id": "nm0474774", 
+   "imbd name": "Akshay Kumar"
+  }, 
+  {
+   "imbd id": "nm0451600", 
+   "imbd name": "Anupam Kher"
+  }, 
+  {
+   "imbd id": "nm0048075", 
+   "imbd name": "Manoj Bajpayee"
+  }, 
+  {
+   "imbd id": "nm0792116", 
+   "imbd name": "Jimmy Sheirgill"
+  }, 
+  {
+   "imbd id": "nm2570245", 
+   "imbd name": "Kajal Aggarwal"
+  }, 
+  {
+   "imbd id": "nm0244890", 
+   "imbd name": "Divya Dutta"
+  }, 
+  {
+   "imbd id": "nm0434263", 
+   "imbd name": "Kishore Kadam"
+  }, 
+  {
+   "imbd id": "nm0788903", 
+   "imbd name": "Rajesh Sharma"
+  }, 
+  {
+   "imbd id": "nm1516058", 
+   "imbd name": "Deep Raj Rana"
+  }, 
+  {
+   "imbd id": "nm1479650", 
+   "imbd name": "Vipin Sharma"
+  }, 
+  {
+   "imbd id": "nm2747851", 
+   "imbd name": "Sukhwinder Chahal"
+  }, 
+  {
+   "imbd id": "nm3665336", 
+   "imbd name": "Abha Parmar"
+  }, 
+  {
+   "imbd id": "nm1201151", 
+   "imbd name": "Mukesh Bhatt"
+  }, 
+  {
+   "imbd id": "nm2717649", 
+   "imbd name": "Ujjwal Chopra"
+  }, 
+  {
+   "imbd id": "nm0848308", 
+   "imbd name": "Tiku Talsania"
+  }
+ ]
+}

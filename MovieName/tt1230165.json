@@ -1,0 +1,81 @@
+{
+ "bio": "Four friends reunite to relive their moments of glory as a rock band.", 
+ "name": "RockOn!!", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Abhishek Kapoor"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1230165/mediaviewer/rm4028012288", 
+ "genre": [
+  "Drama", 
+  "Music"
+ ], 
+ "caste": [
+  {
+   "imbd id": "nm0992000", 
+   "imbd name": "Arjun Rampal"
+  }, 
+  {
+   "imbd id": "nm1027719", 
+   "imbd name": "Farhan Akhtar"
+  }, 
+  {
+   "imbd id": "nm2219430", 
+   "imbd name": "Luke Kenny"
+  }, 
+  {
+   "imbd id": "nm1327322", 
+   "imbd name": "Purab Kohli"
+  }, 
+  {
+   "imbd id": "nm2278458", 
+   "imbd name": "Prachi Desai"
+  }, 
+  {
+   "imbd id": "nm2257218", 
+   "imbd name": "Shahana Goswami"
+  }, 
+  {
+   "imbd id": "nm1217675", 
+   "imbd name": "Koel Purie"
+  }, 
+  {
+   "imbd id": "nm3010199", 
+   "imbd name": "Nicolette Bird"
+  }, 
+  {
+   "imbd id": "nm2306491", 
+   "imbd name": "Sai Gundewar"
+  }, 
+  {
+   "imbd id": "nm8644383", 
+   "imbd name": "Supreet Bedi"
+  }, 
+  {
+   "imbd id": "nm2561546", 
+   "imbd name": "Vinod Bere"
+  }, 
+  {
+   "imbd id": "nm5401802", 
+   "imbd name": "Randolph Correia"
+  }, 
+  {
+   "imbd id": "nm8644382", 
+   "imbd name": "Lindsay D'Mello"
+  }, 
+  {
+   "imbd id": "nm8644379", 
+   "imbd name": "Suzanne D'Mello"
+  }, 
+  {
+   "imbd id": "nm7289401", 
+   "imbd name": "Terence D'Souza"
+  }
+ ]
+}

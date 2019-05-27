@@ -1,0 +1,82 @@
+{
+ "bio": "Six different stories, about nine people, each with different issues and problems, all occurring within one place: the METRO.", 
+ "name": "LifeinaMetro", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Anurag Basu"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0800956/mediaviewer/rm2580889856", 
+ "genre": [
+  "Comedy", 
+  "Drama", 
+  "Romance"
+ ], 
+ "runtime": "132 min", 
+ "caste": [
+  {
+   "imbd id": "nm0004429", 
+   "imbd name": "Dharmendra"
+  }, 
+  {
+   "imbd id": "nm0451234", 
+   "imbd name": "Irrfan Khan"
+  }, 
+  {
+   "imbd id": "nm1234298", 
+   "imbd name": "Konkona Sen Sharma"
+  }, 
+  {
+   "imbd id": "nm1946407", 
+   "imbd name": "Kay Kay Menon"
+  }, 
+  {
+   "imbd id": "nm0792908", 
+   "imbd name": "Shilpa Shetty Kundra"
+  }, 
+  {
+   "imbd id": "nm1832004", 
+   "imbd name": "Shiney Ahuja"
+  }, 
+  {
+   "imbd id": "nm0430817", 
+   "imbd name": "Sharman Joshi"
+  }, 
+  {
+   "imbd id": "nm2144007", 
+   "imbd name": "Kangana Ranaut"
+  }, 
+  {
+   "imbd id": "nm0019465", 
+   "imbd name": "Nafisa Ali"
+  }, 
+  {
+   "imbd id": "nm1206317", 
+   "imbd name": "Vicky Ahuja"
+  }, 
+  {
+   "imbd id": "nm1330687", 
+   "imbd name": "Gautam Kapoor"
+  }, 
+  {
+   "imbd id": "nm5290022", 
+   "imbd name": "Ayaan Khan"
+  }, 
+  {
+   "imbd id": "nm2511745", 
+   "imbd name": "Ashwin Mushran"
+  }, 
+  {
+   "imbd id": "nm0632079", 
+   "imbd name": "Nilofar"
+  }, 
+  {
+   "imbd id": "nm2388090", 
+   "imbd name": "Rinku Patel"
+  }
+ ]
+}

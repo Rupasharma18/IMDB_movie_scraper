@@ -1,0 +1,83 @@
+{
+ "bio": "In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.", 
+ "name": "Bahubali:TheBeginning", 
+ "language": [
+  "Telugu", 
+  "Tamil", 
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "S.S. Rajamouli"
+ ], 
+ "poster": "https://www.imdb.com/title/tt2631186/mediaviewer/rm1023504640", 
+ "genre": [
+  "Action", 
+  "Drama"
+ ], 
+ "runtime": "159 min", 
+ "caste": [
+  {
+   "imbd id": "nm1659141", 
+   "imbd name": "Prabhas"
+  }, 
+  {
+   "imbd id": "nm2281292", 
+   "imbd name": "Rana Daggubati"
+  }, 
+  {
+   "imbd id": "nm0471447", 
+   "imbd name": "Ramya Krishnan"
+  }, 
+  {
+   "imbd id": "nm0766470", 
+   "imbd name": "Sathyaraj"
+  }, 
+  {
+   "imbd id": "nm2011932", 
+   "imbd name": "Anushka Shetty"
+  }, 
+  {
+   "imbd id": "nm1961459", 
+   "imbd name": "Tamannaah Bhatia"
+  }, 
+  {
+   "imbd id": "nm0621937", 
+   "imbd name": "Nassar"
+  }, 
+  {
+   "imbd id": "nm1679372", 
+   "imbd name": "Sudeep"
+  }, 
+  {
+   "imbd id": "nm7319988", 
+   "imbd name": "Prabhakar"
+  }, 
+  {
+   "imbd id": "nm6845066", 
+   "imbd name": "Rajsekhar Aningi"
+  }, 
+  {
+   "imbd id": "nm4992192", 
+   "imbd name": "Gabriela Bertante"
+  }, 
+  {
+   "imbd id": "nm9860260", 
+   "imbd name": "Bhanu Sri"
+  }, 
+  {
+   "imbd id": "nm0080238", 
+   "imbd name": "Tanikella Bharani"
+  }, 
+  {
+   "imbd id": "nm6598222", 
+   "imbd name": "Nora Fatehi"
+  }, 
+  {
+   "imbd id": "nm9842626", 
+   "imbd name": "Sri Simha Koduri"
+  }
+ ]
+}

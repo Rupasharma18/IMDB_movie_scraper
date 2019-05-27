@@ -1,0 +1,83 @@
+{
+ "bio": "A pregnant woman's search for her missing husband takes her from London to Kolkata, but everyone she questions denies having ever met him.", 
+ "name": "Kahaani", 
+ "language": [
+  "Hindi", 
+  "Bengali", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Sujoy Ghosh"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1821480/mediaviewer/rm107394816", 
+ "genre": [
+  "Mystery", 
+  "Thriller"
+ ], 
+ "runtime": "122 min", 
+ "caste": [
+  {
+   "imbd id": "nm1799038", 
+   "imbd name": "Vidya Balan"
+  }, 
+  {
+   "imbd id": "nm1913625", 
+   "imbd name": "Parambrata Chatterjee"
+  }, 
+  {
+   "imbd id": "nm1778890", 
+   "imbd name": "Indraneil Sengupta"
+  }, 
+  {
+   "imbd id": "nm1596350", 
+   "imbd name": "Nawazuddin Siddiqui"
+  }, 
+  {
+   "imbd id": "nm0154122", 
+   "imbd name": "Dhritiman Chatterjee"
+  }, 
+  {
+   "imbd id": "nm1384413", 
+   "imbd name": "Saswata Chatterjee"
+  }, 
+  {
+   "imbd id": "nm1189762", 
+   "imbd name": "Darshan Jariwala"
+  }, 
+  {
+   "imbd id": "nm4970350", 
+   "imbd name": "Sk. Azad Ahmed"
+  }, 
+  {
+   "imbd id": "nm0015289", 
+   "imbd name": "Masood Akhtar"
+  }, 
+  {
+   "imbd id": "nm4971167", 
+   "imbd name": "Mohd. Faiz Alam"
+  }, 
+  {
+   "imbd id": "nm4970247", 
+   "imbd name": "Roshni Ali"
+  }, 
+  {
+   "imbd id": "nm3424482", 
+   "imbd name": "Anindya Pulak Banerjee"
+  }, 
+  {
+   "imbd id": "nm3358260", 
+   "imbd name": "Kamalika Banerjee"
+  }, 
+  {
+   "imbd id": "nm2158659", 
+   "imbd name": "Dibyendu Bardhan"
+  }, 
+  {
+   "imbd id": "nm4971355", 
+   "imbd name": "Paresh Bhowmick"
+  }
+ ]
+}

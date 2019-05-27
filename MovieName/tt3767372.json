@@ -1,0 +1,83 @@
+{
+ "bio": "A quirky comedy about the relationship between a daughter and her aging father, whose eccentricities drive everyone crazy.", 
+ "name": "Piku", 
+ "language": [
+  "Hindi", 
+  "English", 
+  "Bengali"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Shoojit Sircar"
+ ], 
+ "poster": "https://www.imdb.com/title/tt3767372/mediaviewer/rm2728194304", 
+ "genre": [
+  "Comedy", 
+  "Drama"
+ ], 
+ "runtime": "123 min", 
+ "caste": [
+  {
+   "imbd id": "nm2138653", 
+   "imbd name": "Deepika Padukone"
+  }, 
+  {
+   "imbd id": "nm0000821", 
+   "imbd name": "Amitabh Bachchan"
+  }, 
+  {
+   "imbd id": "nm0451234", 
+   "imbd name": "Irrfan Khan"
+  }, 
+  {
+   "imbd id": "nm0154139", 
+   "imbd name": "Moushumi Chatterjee"
+  }, 
+  {
+   "imbd id": "nm0944834", 
+   "imbd name": "Raghuvir Yadav"
+  }, 
+  {
+   "imbd id": "nm1702868", 
+   "imbd name": "Jishu Sengupta"
+  }, 
+  {
+   "imbd id": "nm7464979", 
+   "imbd name": "Balendar Singh"
+  }, 
+  {
+   "imbd id": "nm5000540", 
+   "imbd name": "Swaroopa Ghosh"
+  }, 
+  {
+   "imbd id": "nm7602180", 
+   "imbd name": "Sajal Bhattacharya"
+  }, 
+  {
+   "imbd id": "nm7602181", 
+   "imbd name": "Rupsa Banerjee"
+  }, 
+  {
+   "imbd id": "nm7602182", 
+   "imbd name": "Nutan Mathur"
+  }, 
+  {
+   "imbd id": "nm4114810", 
+   "imbd name": "Prerna Chawla"
+  }, 
+  {
+   "imbd id": "nm7602183", 
+   "imbd name": "Aniruddha Roy Chowdhury"
+  }, 
+  {
+   "imbd id": "nm0154119", 
+   "imbd name": "Bishwadeep Chatterjee"
+  }, 
+  {
+   "imbd id": "nm0244865", 
+   "imbd name": "Avijit Dutt"
+  }
+ ]
+}

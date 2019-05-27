@@ -1,0 +1,83 @@
+{
+ "bio": "The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.", 
+ "name": "RangDeBasanti", 
+ "language": [
+  "Hindi", 
+  "Punjabi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Rakeysh Omprakash Mehra"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0405508/mediaviewer/rm3867823104", 
+ "genre": [
+  "Comedy", 
+  "Drama"
+ ], 
+ "runtime": "167 min", 
+ "caste": [
+  {
+   "imbd id": "nm0451148", 
+   "imbd name": "Aamir Khan"
+  }, 
+  {
+   "imbd id": "nm1413459", 
+   "imbd name": "Siddharth"
+  }, 
+  {
+   "imbd id": "nm0430817", 
+   "imbd name": "Sharman Joshi"
+  }, 
+  {
+   "imbd id": "nm1577858", 
+   "imbd name": "Kunal Kapoor"
+  }, 
+  {
+   "imbd id": "nm0474609", 
+   "imbd name": "Atul Kulkarni"
+  }, 
+  {
+   "imbd id": "nm1373220", 
+   "imbd name": "Alice Patten"
+  }, 
+  {
+   "imbd id": "nm1675786", 
+   "imbd name": "Soha Ali Khan"
+  }, 
+  {
+   "imbd id": "nm0533599", 
+   "imbd name": "Steven Mackintosh"
+  }, 
+  {
+   "imbd id": "nm0534856", 
+   "imbd name": "Madhavan"
+  }, 
+  {
+   "imbd id": "nm0716851", 
+   "imbd name": "Waheeda Rehman"
+  }, 
+  {
+   "imbd id": "nm0451600", 
+   "imbd name": "Anupam Kher"
+  }, 
+  {
+   "imbd id": "nm0451601", 
+   "imbd name": "Kiron Kher"
+  }, 
+  {
+   "imbd id": "nm0700875", 
+   "imbd name": "Om Puri"
+  }, 
+  {
+   "imbd id": "nm0849195", 
+   "imbd name": "Lekh Tandon"
+  }, 
+  {
+   "imbd id": "nm1213909", 
+   "imbd name": "Cyrus Sahukar"
+  }
+ ]
+}

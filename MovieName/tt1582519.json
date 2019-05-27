@@ -1,0 +1,84 @@
+{
+ "bio": "When a mysterious illness ravages a remote village, the villagers embrace a reluctant taxi driver as their savior.", 
+ "name": "Khaleja", 
+ "language": [
+  "Telugu", 
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Trivikram Srinivas"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1582519/mediaviewer/rm1636767232", 
+ "genre": [
+  "Action", 
+  "Comedy", 
+  "Drama"
+ ], 
+ "runtime": "170 min", 
+ "caste": [
+  {
+   "imbd id": "nm1121870", 
+   "imbd name": "Mahesh Babu"
+  }, 
+  {
+   "imbd id": "nm2011932", 
+   "imbd name": "Anushka Shetty"
+  }, 
+  {
+   "imbd id": "nm0695177", 
+   "imbd name": "Prakash Raj"
+  }, 
+  {
+   "imbd id": "nm0103977", 
+   "imbd name": "Brahmanandam"
+  }, 
+  {
+   "imbd id": "nm0080238", 
+   "imbd name": "Tanikella Bharani"
+  }, 
+  {
+   "imbd id": "nm1198628", 
+   "imbd name": "Suneel"
+  }, 
+  {
+   "imbd id": "nm0837189", 
+   "imbd name": "Sudha"
+  }, 
+  {
+   "imbd id": "nm0019382", 
+   "imbd name": "Ali"
+  }, 
+  {
+   "imbd id": "nm0621263", 
+   "imbd name": "M.S. Narayana"
+  }, 
+  {
+   "imbd id": "nm2310461", 
+   "imbd name": "Shafi"
+  }, 
+  {
+   "imbd id": "nm1759615", 
+   "imbd name": "Subbaraju"
+  }, 
+  {
+   "imbd id": "nm0223506", 
+   "imbd name": "Dharmavarapu Subramanyam"
+  }, 
+  {
+   "imbd id": "nm2747117", 
+   "imbd name": "Archana"
+  }, 
+  {
+   "imbd id": "nm4442569", 
+   "imbd name": "Joy Badlani"
+  }, 
+  {
+   "imbd id": "nm3474130", 
+   "imbd name": "Aman Dhaliwal"
+  }
+ ]
+}

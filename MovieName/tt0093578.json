@@ -1,0 +1,82 @@
+{
+ "bio": "A poor but big-hearted man takes orphans into his home. After discovering his scientist father's invisibility device, he rises to the occasion and fights to save his children and all of India from the clutches of a megalomaniac.", 
+ "name": "Mr.India", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Shekhar Kapur"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0093578/mediaviewer/rm1080745984", 
+ "genre": [
+  "Action", 
+  "Comedy", 
+  "Drama"
+ ], 
+ "runtime": "179 min", 
+ "caste": [
+  {
+   "imbd id": "nm0438463", 
+   "imbd name": "Anil Kapoor"
+  }, 
+  {
+   "imbd id": "nm0004437", 
+   "imbd name": "Sridevi"
+  }, 
+  {
+   "imbd id": "nm0700869", 
+   "imbd name": "Amrish Puri"
+  }, 
+  {
+   "imbd id": "nm0442479", 
+   "imbd name": "Satish Kaushik"
+  }, 
+  {
+   "imbd id": "nm0438465", 
+   "imbd name": "Annu Kapoor"
+  }, 
+  {
+   "imbd id": "nm0882892", 
+   "imbd name": "Ajit Vachani"
+  }, 
+  {
+   "imbd id": "nm0768296", 
+   "imbd name": "Sharat Saxena"
+  }, 
+  {
+   "imbd id": "nm0006369", 
+   "imbd name": "Ashok Kumar"
+  }, 
+  {
+   "imbd id": "nm0160463", 
+   "imbd name": "Bob Christo"
+  }, 
+  {
+   "imbd id": "nm0219946", 
+   "imbd name": "Ramesh Deo"
+  }, 
+  {
+   "imbd id": "nm0992664", 
+   "imbd name": "Karan Nath"
+  }, 
+  {
+   "imbd id": "nm0664109", 
+   "imbd name": "Yunus Parvez"
+  }, 
+  {
+   "imbd id": "nm0665370", 
+   "imbd name": "Harish Patel"
+  }, 
+  {
+   "imbd id": "nm0700233", 
+   "imbd name": "Venus Pujari"
+  }, 
+  {
+   "imbd id": "nm0787485", 
+   "imbd name": "Tapan Shah"
+  }
+ ]
+}

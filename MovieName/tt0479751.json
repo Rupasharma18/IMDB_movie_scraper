@@ -1,0 +1,84 @@
+{
+ "bio": "A software engineer comes to India to serve the nation and invest in nation's welfare. A few corrupt officials and politicians try to stop him but he overcomes all obstacles.", 
+ "name": "Sivaji", 
+ "language": [
+  "Tamil", 
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "S. Shankar"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0479751/mediaviewer/rm1932027648", 
+ "genre": [
+  "Action", 
+  "Drama", 
+  "Thriller"
+ ], 
+ "runtime": "188 min", 
+ "caste": [
+  {
+   "imbd id": "nm0707425", 
+   "imbd name": "Rajinikanth"
+  }, 
+  {
+   "imbd id": "nm1328152", 
+   "imbd name": "Shriya Saran"
+  }, 
+  {
+   "imbd id": "nm0838520", 
+   "imbd name": "Suman"
+  }, 
+  {
+   "imbd id": "nm0900266", 
+   "imbd name": "Vivek"
+  }, 
+  {
+   "imbd id": "nm3675354", 
+   "imbd name": "Ala Aljundi"
+  }, 
+  {
+   "imbd id": "nm3280031", 
+   "imbd name": "Amarasigamani"
+  }, 
+  {
+   "imbd id": "nm4564107", 
+   "imbd name": "Balaji"
+  }, 
+  {
+   "imbd id": "nm4563986", 
+   "imbd name": "Jemini Balaji"
+  }, 
+  {
+   "imbd id": "nm2132667", 
+   "imbd name": "M.S. Bhaskar"
+  }, 
+  {
+   "imbd id": "nm4564130", 
+   "imbd name": "Bobby"
+  }, 
+  {
+   "imbd id": "nm1428279", 
+   "imbd name": "Chelladurai"
+  }, 
+  {
+   "imbd id": "nm1232849", 
+   "imbd name": "Chinnijayanth"
+  }, 
+  {
+   "imbd id": "nm4564096", 
+   "imbd name": "Deepak"
+  }, 
+  {
+   "imbd id": "nm6370553", 
+   "imbd name": "Bianca Desai"
+  }, 
+  {
+   "imbd id": "nm4564011", 
+   "imbd name": "Deva"
+  }
+ ]
+}

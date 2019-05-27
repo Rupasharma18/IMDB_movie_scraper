@@ -1,0 +1,81 @@
+{
+ "bio": "Using only a hammer and a chisel, a man spends twenty-two years carving a road through a treacherous mountain.", 
+ "name": "Manjhi:TheMountainMan", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Ketan Mehta"
+ ], 
+ "poster": "https://www.imdb.com/title/tt3449292/mediaviewer/rm2093502208", 
+ "genre": [
+  "Adventure", 
+  "Biography", 
+  "Drama"
+ ], 
+ "caste": [
+  {
+   "imbd id": "nm1596350", 
+   "imbd name": "Nawazuddin Siddiqui"
+  }, 
+  {
+   "imbd id": "nm2331000", 
+   "imbd name": "Radhika Apte"
+  }, 
+  {
+   "imbd id": "nm6199189", 
+   "imbd name": "Ashutosh Acharya"
+  }, 
+  {
+   "imbd id": "nm3552176", 
+   "imbd name": "Shahzad Ahmad"
+  }, 
+  {
+   "imbd id": "nm6199186", 
+   "imbd name": "Aishwarya Arora"
+  }, 
+  {
+   "imbd id": "nm6199205", 
+   "imbd name": "Suraj Bajjua"
+  }, 
+  {
+   "imbd id": "nm6199208", 
+   "imbd name": "Vishwa Bhanu"
+  }, 
+  {
+   "imbd id": "nm6199200", 
+   "imbd name": "Ravi Bhushan"
+  }, 
+  {
+   "imbd id": "nm6199188", 
+   "imbd name": "Anil Chaudhary"
+  }, 
+  {
+   "imbd id": "nm1848057", 
+   "imbd name": "Abhishek Chauhan"
+  }, 
+  {
+   "imbd id": "nm6199201", 
+   "imbd name": "Samvedna Anish Choudhary"
+  }, 
+  {
+   "imbd id": "nm0223606", 
+   "imbd name": "Tigmanshu Dhulia"
+  }, 
+  {
+   "imbd id": "nm3021185", 
+   "imbd name": "Gaurav Dwivedi"
+  }, 
+  {
+   "imbd id": "nm4848938", 
+   "imbd name": "Amar Gaikwad"
+  }, 
+  {
+   "imbd id": "nm6199207", 
+   "imbd name": "Vijay Gupta"
+  }
+ ]
+}

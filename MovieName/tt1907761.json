@@ -1,0 +1,84 @@
+{
+ "bio": "A school-teacher, who forces children to share their food with him, forbids one from entering the school until he brings his own Tiffin/Lunch-box.", 
+ "name": "StanleyKaDabba", 
+ "language": [
+  "Hindi", 
+  "English", 
+  "Gujarati"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Amole Gupte"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1907761/mediaviewer/rm2716683520", 
+ "genre": [
+  "Comedy", 
+  "Drama", 
+  "Family"
+ ], 
+ "runtime": "96 min", 
+ "caste": [
+  {
+   "imbd id": "nm4428422", 
+   "imbd name": "Partho A. Gupte"
+  }, 
+  {
+   "imbd id": "nm4473016", 
+   "imbd name": "Numaan Sheikh"
+  }, 
+  {
+   "imbd id": "nm4473026", 
+   "imbd name": "Abhishek Reddy"
+  }, 
+  {
+   "imbd id": "nm4474558", 
+   "imbd name": "Sai Shara Shetty"
+  }, 
+  {
+   "imbd id": "nm4472448", 
+   "imbd name": "Monty Sarkar"
+  }, 
+  {
+   "imbd id": "nm4474306", 
+   "imbd name": "Leo Crasto"
+  }, 
+  {
+   "imbd id": "nm4475116", 
+   "imbd name": "Tijo Thomas"
+  }, 
+  {
+   "imbd id": "nm3003545", 
+   "imbd name": "Ganesh Pujari"
+  }, 
+  {
+   "imbd id": "nm4472409", 
+   "imbd name": "Walter D'Souza"
+  }, 
+  {
+   "imbd id": "nm0244890", 
+   "imbd name": "Divya Dutta"
+  }, 
+  {
+   "imbd id": "nm0415555", 
+   "imbd name": "Divya Jagdale"
+  }, 
+  {
+   "imbd id": "nm0958861", 
+   "imbd name": "Raj Zutshi"
+  }, 
+  {
+   "imbd id": "nm0536799", 
+   "imbd name": "Rahul Singh"
+  }, 
+  {
+   "imbd id": "nm1004575", 
+   "imbd name": "Aditya Lakhia"
+  }, 
+  {
+   "imbd id": "nm3583019", 
+   "imbd name": "Shashank Shende"
+  }
+ ]
+}

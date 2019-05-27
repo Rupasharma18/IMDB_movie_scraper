@@ -1,0 +1,81 @@
+{
+ "bio": "The cathartic tale of a young woman who can't see, hear or talk and the teacher who brings a ray of light into her dark world.", 
+ "name": "Black", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Sanjay Leela Bhansali"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0375611/mediaviewer/rm1951206656", 
+ "genre": [
+  "Drama"
+ ], 
+ "runtime": "122 min", 
+ "caste": [
+  {
+   "imbd id": "nm0000821", 
+   "imbd name": "Amitabh Bachchan"
+  }, 
+  {
+   "imbd id": "nm0611552", 
+   "imbd name": "Rani Mukerji"
+  }, 
+  {
+   "imbd id": "nm1617909", 
+   "imbd name": "Shernaz Patel"
+  }, 
+  {
+   "imbd id": "nm1754159", 
+   "imbd name": "Ayesha Kapoor"
+  }, 
+  {
+   "imbd id": "nm0154122", 
+   "imbd name": "Dhritiman Chatterjee"
+  }, 
+  {
+   "imbd id": "nm1923990", 
+   "imbd name": "Sillo Mahava"
+  }, 
+  {
+   "imbd id": "nm0304336", 
+   "imbd name": "Chippy Gangjee"
+  }, 
+  {
+   "imbd id": "nm0595354", 
+   "imbd name": "Mahabanoo Mody-Kotwal"
+  }, 
+  {
+   "imbd id": "nm4870433", 
+   "imbd name": "Salome"
+  }, 
+  {
+   "imbd id": "nm1397699", 
+   "imbd name": "Kenny Desai"
+  }, 
+  {
+   "imbd id": "nm1925509", 
+   "imbd name": "Arif Shah"
+  }, 
+  {
+   "imbd id": "nm1069013", 
+   "imbd name": "Bomie E. Dotiwala"
+  }, 
+  {
+   "imbd id": "nm1224957", 
+   "imbd name": "Jeroo Shroff"
+  }, 
+  {
+   "imbd id": "nm1435982", 
+   "imbd name": "Bomi Kapadia"
+  }, 
+  {
+   "imbd id": "nm1568415", 
+   "imbd name": "Kamal Adib"
+  }
+ ]
+}

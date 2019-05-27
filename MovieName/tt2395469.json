@@ -1,0 +1,81 @@
+{
+ "bio": "A coming-of-age story based on the lives of street rappers in Mumbai.", 
+ "name": "GullyBoy", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Zoya Akhtar"
+ ], 
+ "poster": "https://www.imdb.com/title/tt2395469/mediaviewer/rm2536928512", 
+ "genre": [
+  "Drama", 
+  "Music"
+ ], 
+ "runtime": "153 min", 
+ "caste": [
+  {
+   "imbd id": "nm3828984", 
+   "imbd name": "Ranveer Singh"
+  }, 
+  {
+   "imbd id": "nm1017633", 
+   "imbd name": "Alia Bhatt"
+  }, 
+  {
+   "imbd id": "nm8237564", 
+   "imbd name": "Siddhant Chaturvedi"
+  }, 
+  {
+   "imbd id": "nm0704694", 
+   "imbd name": "Vijay Raaz"
+  }, 
+  {
+   "imbd id": "nm1576284", 
+   "imbd name": "Amruta Subhash"
+  }, 
+  {
+   "imbd id": "nm1994146", 
+   "imbd name": "Vijay Varma"
+  }, 
+  {
+   "imbd id": "nm3202701", 
+   "imbd name": "Kalki Koechlin"
+  }, 
+  {
+   "imbd id": "nm1038430", 
+   "imbd name": "Ikhlaque Khan"
+  }, 
+  {
+   "imbd id": "nm0149441", 
+   "imbd name": "Sheeba Chaddha"
+  }, 
+  {
+   "imbd id": "nm1533122", 
+   "imbd name": "Jyoti Subhash"
+  }, 
+  {
+   "imbd id": "nm1038431", 
+   "imbd name": "Rahul Piske"
+  }, 
+  {
+   "imbd id": "nm4393513", 
+   "imbd name": "Nakul Sachdeva"
+  }, 
+  {
+   "imbd id": "nm3175339", 
+   "imbd name": "Shruti Chauhan"
+  }, 
+  {
+   "imbd id": "nm7929139", 
+   "imbd name": "Aishwarya Desai"
+  }, 
+  {
+   "imbd id": "nm3591303", 
+   "imbd name": "Kubbra Sait"
+  }
+ ]
+}

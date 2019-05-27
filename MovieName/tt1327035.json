@@ -1,0 +1,86 @@
+{
+ "bio": "After breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?", 
+ "name": "Dev.D", 
+ "language": [
+  "Hindi", 
+  "Punjabi", 
+  "English", 
+  "French", 
+  "Tamil"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Anurag Kashyap"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1327035/mediaviewer/rm2612715520", 
+ "genre": [
+  "Comedy", 
+  "Drama", 
+  "Romance"
+ ], 
+ "runtime": "144 min", 
+ "caste": [
+  {
+   "imbd id": "nm1867717", 
+   "imbd name": "Abhay Deol"
+  }, 
+  {
+   "imbd id": "nm2977124", 
+   "imbd name": "Mahie Gill"
+  }, 
+  {
+   "imbd id": "nm3202701", 
+   "imbd name": "Kalki Koechlin"
+  }, 
+  {
+   "imbd id": "nm0080349", 
+   "imbd name": "Dibyendu Bhattacharya"
+  }, 
+  {
+   "imbd id": "nm1126070", 
+   "imbd name": "Gurkirtan"
+  }, 
+  {
+   "imbd id": "nm3830290", 
+   "imbd name": "Satwant Kaur"
+  }, 
+  {
+   "imbd id": "nm2409622", 
+   "imbd name": "Parakh Madan"
+  }, 
+  {
+   "imbd id": "nm1568052", 
+   "imbd name": "Kuldeep Sharma"
+  }, 
+  {
+   "imbd id": "nm1665476", 
+   "imbd name": "Jimi the Quiff"
+  }, 
+  {
+   "imbd id": "nm3893870", 
+   "imbd name": "Ammo 'Too Sweet'"
+  }, 
+  {
+   "imbd id": "nm1686014", 
+   "imbd name": "Sanjay Kumar"
+  }, 
+  {
+   "imbd id": "nm3893565", 
+   "imbd name": "Sinbad Phgura"
+  }, 
+  {
+   "imbd id": "nm3880186", 
+   "imbd name": "Aseem Sharma"
+  }, 
+  {
+   "imbd id": "nm3893111", 
+   "imbd name": "Shena Gamat"
+  }, 
+  {
+   "imbd id": "nm3830203", 
+   "imbd name": "Helen Jones"
+  }
+ ]
+}

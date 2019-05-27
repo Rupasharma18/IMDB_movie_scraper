@@ -1,0 +1,59 @@
+{
+ "bio": "After falling in love, three room-mates experience changes in their lives.", 
+ "name": "PyaarKaPunchnama", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Luv Ranjan"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1926313/mediaviewer/rm1074035200", 
+ "genre": [
+  "Comedy", 
+  "Drama", 
+  "Romance"
+ ], 
+ "runtime": "149 min", 
+ "caste": [
+  {
+   "imbd id": "nm4449711", 
+   "imbd name": "Kartik Aaryan"
+  }, 
+  {
+   "imbd id": "nm4449831", 
+   "imbd name": "Raayo S. Bakhirta"
+  }, 
+  {
+   "imbd id": "nm4450033", 
+   "imbd name": "Divyendu Sharma"
+  }, 
+  {
+   "imbd id": "nm2410391", 
+   "imbd name": "Nushrat Bharucha"
+  }, 
+  {
+   "imbd id": "nm4449715", 
+   "imbd name": "Sonnalli Seygall"
+  }, 
+  {
+   "imbd id": "nm7674770", 
+   "imbd name": "Ishita Raj"
+  }, 
+  {
+   "imbd id": "nm6560386", 
+   "imbd name": "Ranjit Batra"
+  }, 
+  {
+   "imbd id": "nm3376240", 
+   "imbd name": "Padam Bhola"
+  }, 
+  {
+   "imbd id": "nm9028648", 
+   "imbd name": "Karthik Chauhan"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "bio": "Insia is a 14 year-old from Vadodara who dreams of being a singer one day.", 
+ "name": "SecretSuperstar", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Advait Chandan"
+ ], 
+ "poster": "https://www.imdb.com/title/tt6108090/mediaviewer/rm1498492160", 
+ "genre": [
+  "Drama", 
+  "Music"
+ ], 
+ "runtime": "150 min", 
+ "caste": [
+  {
+   "imbd id": "nm7621668", 
+   "imbd name": "Zaira Wasim"
+  }, 
+  {
+   "imbd id": "nm2016476", 
+   "imbd name": "Meher Vij"
+  }, 
+  {
+   "imbd id": "nm2366974", 
+   "imbd name": "Raj Arjun"
+  }, 
+  {
+   "imbd id": "nm0451148", 
+   "imbd name": "Aamir Khan"
+  }, 
+  {
+   "imbd id": "nm9332186", 
+   "imbd name": "Tirth Sharma"
+  }, 
+  {
+   "imbd id": "nm9625502", 
+   "imbd name": "Kabir Sajid"
+  }, 
+  {
+   "imbd id": "nm1585543", 
+   "imbd name": "Farrukh Jaffar"
+  }, 
+  {
+   "imbd id": "nm7215248", 
+   "imbd name": "Manuj Sharma"
+  }, 
+  {
+   "imbd id": "nm1865124", 
+   "imbd name": "Nikita Anand"
+  }, 
+  {
+   "imbd id": "nm1034805", 
+   "imbd name": "Shaan"
+  }, 
+  {
+   "imbd id": "nm4232545", 
+   "imbd name": "Monali Thakur"
+  }, 
+  {
+   "imbd id": "nm1263050", 
+   "imbd name": "Mona Ambegaonkar"
+  }
+ ]
+}

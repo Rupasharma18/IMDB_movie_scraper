@@ -1,0 +1,82 @@
+{
+ "bio": "An Indian intelligence agent journeys to a war-torn coastal island to break a resolute rebel group and meets a passionate journalist.", 
+ "name": "MadrasCafe", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Shoojit Sircar"
+ ], 
+ "poster": "https://www.imdb.com/title/tt2855648/mediaviewer/rm4137278208", 
+ "genre": [
+  "Action", 
+  "Drama", 
+  "Thriller"
+ ], 
+ "runtime": "130 min", 
+ "caste": [
+  {
+   "imbd id": "nm1303433", 
+   "imbd name": "John Abraham"
+  }, 
+  {
+   "imbd id": "nm3668216", 
+   "imbd name": "Nargis Fakhri"
+  }, 
+  {
+   "imbd id": "nm5637317", 
+   "imbd name": "Raashi Khanna"
+  }, 
+  {
+   "imbd id": "nm5897302", 
+   "imbd name": "Sanjay Gurbaxani"
+  }, 
+  {
+   "imbd id": "nm5787869", 
+   "imbd name": "Prakash Belawadi"
+  }, 
+  {
+   "imbd id": "nm5897304", 
+   "imbd name": "Leena Maria Paul"
+  }, 
+  {
+   "imbd id": "nm8850112", 
+   "imbd name": "Vishnu Govindhan"
+  }, 
+  {
+   "imbd id": "nm0244865", 
+   "imbd name": "Avijit Dutt"
+  }, 
+  {
+   "imbd id": "nm5897303", 
+   "imbd name": "Kannan Arunachalam"
+  }, 
+  {
+   "imbd id": "nm3126747", 
+   "imbd name": "Aayam Mehta"
+  }, 
+  {
+   "imbd id": "nm4380888", 
+   "imbd name": "Tarun Bali"
+  }, 
+  {
+   "imbd id": "nm5787872", 
+   "imbd name": "Dibang"
+  }, 
+  {
+   "imbd id": "nm1559782", 
+   "imbd name": "Ajay Ratnam"
+  }, 
+  {
+   "imbd id": "nm3440031", 
+   "imbd name": "Dinesh Nair"
+  }, 
+  {
+   "imbd id": "nm3557638", 
+   "imbd name": "Vinod Kumar"
+  }
+ ]
+}

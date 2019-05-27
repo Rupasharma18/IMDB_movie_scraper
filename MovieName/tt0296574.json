@@ -1,0 +1,82 @@
+{
+ "bio": "A small-time gangster named Chandu teams up with Malik, a low-level enforcer for a criminal syndicate. Together they eliminate all their enemies, becoming the most feared gangsters in Mumbai.", 
+ "name": "Company", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Ram Gopal Varma"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0296574/mediaviewer/rm638411520", 
+ "genre": [
+  "Action", 
+  "Crime", 
+  "Drama"
+ ], 
+ "caste": [
+  {
+   "imbd id": "nm0222426", 
+   "imbd name": "Ajay Devgn"
+  }, 
+  {
+   "imbd id": "nm0482320", 
+   "imbd name": "Mohanlal"
+  }, 
+  {
+   "imbd id": "nm0463539", 
+   "imbd name": "Manisha Koirala"
+  }, 
+  {
+   "imbd id": "nm0084443", 
+   "imbd name": "Seema Biswas"
+  }, 
+  {
+   "imbd id": "nm1059103", 
+   "imbd name": "Vivek Oberoi"
+  }, 
+  {
+   "imbd id": "nm0539507", 
+   "imbd name": "Antara Mali"
+  }, 
+  {
+   "imbd id": "nm0452021", 
+   "imbd name": "Akash Khurana"
+  }, 
+  {
+   "imbd id": "nm0430799", 
+   "imbd name": "Madan Joshi"
+  }, 
+  {
+   "imbd id": "nm1189034", 
+   "imbd name": "Bharat Dabholkar"
+  }, 
+  {
+   "imbd id": "nm0944832", 
+   "imbd name": "Ganesh Yadav"
+  }, 
+  {
+   "imbd id": "nm0361637", 
+   "imbd name": "Ashraf Ul Haq"
+  }, 
+  {
+   "imbd id": "nm1218230", 
+   "imbd name": "Akshay Verma"
+  }, 
+  {
+   "imbd id": "nm0704694", 
+   "imbd name": "Vijay Raaz"
+  }, 
+  {
+   "imbd id": "nm1201151", 
+   "imbd name": "Mukesh Bhatt"
+  }, 
+  {
+   "imbd id": "nm1216585", 
+   "imbd name": "Manoj Goyal"
+  }
+ ]
+}

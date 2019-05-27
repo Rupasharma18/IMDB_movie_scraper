@@ -1,0 +1,83 @@
+{
+ "bio": "A shopkeeper takes God to court when his shop is destroyed by an earthquake.", 
+ "name": "OMG:OhMyGod!", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Umesh Shukla"
+ ], 
+ "poster": "https://www.imdb.com/title/tt2283748/mediaviewer/rm3971634944", 
+ "genre": [
+  "Comedy", 
+  "Drama", 
+  "Fantasy"
+ ], 
+ "runtime": "125 min", 
+ "caste": [
+  {
+   "imbd id": "nm0712546", 
+   "imbd name": "Paresh Rawal"
+  }, 
+  {
+   "imbd id": "nm0474774", 
+   "imbd name": "Akshay Kumar"
+  }, 
+  {
+   "imbd id": "nm0149822", 
+   "imbd name": "Mithun Chakraborty"
+  }, 
+  {
+   "imbd id": "nm0700875", 
+   "imbd name": "Om Puri"
+  }, 
+  {
+   "imbd id": "nm0542498", 
+   "imbd name": "Mahesh Manjrekar"
+  }, 
+  {
+   "imbd id": "nm0620636", 
+   "imbd name": "Govind Namdeo"
+  }, 
+  {
+   "imbd id": "nm1302330", 
+   "imbd name": "Murli Sharma"
+  }, 
+  {
+   "imbd id": "nm1913309", 
+   "imbd name": "Nikhil Ratnaparkhi"
+  }, 
+  {
+   "imbd id": "nm3891905", 
+   "imbd name": "Lubna Salim"
+  }, 
+  {
+   "imbd id": "nm1030307", 
+   "imbd name": "Poonam Jhawer"
+  }, 
+  {
+   "imbd id": "nm1330618", 
+   "imbd name": "Yusuf Hussain"
+  }, 
+  {
+   "imbd id": "nm5314927", 
+   "imbd name": "Jaineeraj Rajpurohit"
+  }, 
+  {
+   "imbd id": "nm4999775", 
+   "imbd name": "Nidhi Subbaiah"
+  }, 
+  {
+   "imbd id": "nm4559606", 
+   "imbd name": "Apoorva Arora"
+  }, 
+  {
+   "imbd id": "nm3140050", 
+   "imbd name": "Azaan Shah"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "bio": "The intrigue of the Shakespearean tragedy 'Macbeth' is transposed to the Mumbai underworld.", 
+ "name": "Maqbool", 
+ "language": [
+  "Hindi", 
+  "Urdu"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Vishal Bhardwaj"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0379370/mediaviewer/rm1565097216", 
+ "genre": [
+  "Crime", 
+  "Drama", 
+  "Thriller"
+ ], 
+ "runtime": "132 min", 
+ "caste": [
+  {
+   "imbd id": "nm0451234", 
+   "imbd name": "Irrfan Khan"
+  }, 
+  {
+   "imbd id": "nm0007102", 
+   "imbd name": "Tabu"
+  }, 
+  {
+   "imbd id": "nm0438488", 
+   "imbd name": "Pankaj Kapur"
+  }, 
+  {
+   "imbd id": "nm0787462", 
+   "imbd name": "Naseeruddin Shah"
+  }, 
+  {
+   "imbd id": "nm0700875", 
+   "imbd name": "Om Puri"
+  }, 
+  {
+   "imbd id": "nm0592795", 
+   "imbd name": "Piyush Mishra"
+  }, 
+  {
+   "imbd id": "nm1280282", 
+   "imbd name": "Masumeh Makhija"
+  }, 
+  {
+   "imbd id": "nm1549267", 
+   "imbd name": "Ajay Gehi"
+  }, 
+  {
+   "imbd id": "nm1063072", 
+   "imbd name": "Abbas Tyrewala"
+  }, 
+  {
+   "imbd id": "nm1795232", 
+   "imbd name": "Deepak Dobriyal"
+  }, 
+  {
+   "imbd id": "nm0726943", 
+   "imbd name": "Gyanchand Rikki"
+  }, 
+  {
+   "imbd id": "nm1514852", 
+   "imbd name": "Manav Kaushik"
+  }, 
+  {
+   "imbd id": "nm1340178", 
+   "imbd name": "Ankur Vikal"
+  }, 
+  {
+   "imbd id": "nm1335622", 
+   "imbd name": "Pubali Sanyal"
+  }, 
+  {
+   "imbd id": "nm0707266", 
+   "imbd name": "Raj"
+  }
+ ]
+}

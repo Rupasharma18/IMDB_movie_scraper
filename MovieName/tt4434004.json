@@ -1,0 +1,83 @@
+{
+ "bio": "A story that revolves around drug abuse in the affluent north Indian State of Punjab and how the youth there have succumbed to it en-masse resulting in a socio-economic decline.", 
+ "name": "UdtaPunjab", 
+ "language": [
+  "Hindi", 
+  "Punjabi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Abhishek Chaubey"
+ ], 
+ "poster": "https://www.imdb.com/title/tt4434004/mediaviewer/rm4017426944", 
+ "genre": [
+  "Action", 
+  "Crime", 
+  "Drama"
+ ], 
+ "runtime": "148 min", 
+ "caste": [
+  {
+   "imbd id": "nm1372788", 
+   "imbd name": "Shahid Kapoor"
+  }, 
+  {
+   "imbd id": "nm1017633", 
+   "imbd name": "Alia Bhatt"
+  }, 
+  {
+   "imbd id": "nm0004626", 
+   "imbd name": "Kareena Kapoor"
+  }, 
+  {
+   "imbd id": "nm4362492", 
+   "imbd name": "Diljit Dosanjh"
+  }, 
+  {
+   "imbd id": "nm0442479", 
+   "imbd name": "Satish Kaushik"
+  }, 
+  {
+   "imbd id": "nm2435847", 
+   "imbd name": "Manav Vij"
+  }, 
+  {
+   "imbd id": "nm3119274", 
+   "imbd name": "Vansh Bhardwaj"
+  }, 
+  {
+   "imbd id": "nm8237562", 
+   "imbd name": "Suhail Nayyar"
+  }, 
+  {
+   "imbd id": "nm8253714", 
+   "imbd name": "Prabhjyot Singh"
+  }, 
+  {
+   "imbd id": "nm6422090", 
+   "imbd name": "Rajesh Kumar Sharma"
+  }, 
+  {
+   "imbd id": "nm1033153", 
+   "imbd name": "Kamal Tiwari"
+  }, 
+  {
+   "imbd id": "nm1206435", 
+   "imbd name": "Mahabir Bhullar"
+  }, 
+  {
+   "imbd id": "nm4167503", 
+   "imbd name": "Suvinder Vicky"
+  }, 
+  {
+   "imbd id": "nm5669149", 
+   "imbd name": "Dilawar Sidhu"
+  }, 
+  {
+   "imbd id": "nm8998462", 
+   "imbd name": "Lovely Sidhu"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "bio": "A gunman for hire is framed for murder, and assumes a dead man's identity while hiding from the police.", 
+ "name": "Athadu", 
+ "language": [
+  "Telugu", 
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Trivikram Srinivas"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0471571/mediaviewer/rm4158326784", 
+ "genre": [
+  "Action", 
+  "Musical", 
+  "Thriller"
+ ], 
+ "runtime": "172 min", 
+ "caste": [
+  {
+   "imbd id": "nm1121870", 
+   "imbd name": "Mahesh Babu"
+  }, 
+  {
+   "imbd id": "nm1375534", 
+   "imbd name": "Trisha Krishnan"
+  }, 
+  {
+   "imbd id": "nm0695177", 
+   "imbd name": "Prakash Raj"
+  }, 
+  {
+   "imbd id": "nm1399243", 
+   "imbd name": "Sonu Sood"
+  }, 
+  {
+   "imbd id": "nm0004469", 
+   "imbd name": "Srinivasa Rao Kota"
+  }, 
+  {
+   "imbd id": "nm0621937", 
+   "imbd name": "Nassar"
+  }, 
+  {
+   "imbd id": "nm0320880", 
+   "imbd name": "Giri Babu"
+  }, 
+  {
+   "imbd id": "nm0103977", 
+   "imbd name": "Brahmanandam"
+  }, 
+  {
+   "imbd id": "nm0223506", 
+   "imbd name": "Dharmavarapu Subramanyam"
+  }, 
+  {
+   "imbd id": "nm2496992", 
+   "imbd name": "Ajay"
+  }, 
+  {
+   "imbd id": "nm4442569", 
+   "imbd name": "Joy Badlani"
+  }, 
+  {
+   "imbd id": "nm0080238", 
+   "imbd name": "Tanikella Bharani"
+  }, 
+  {
+   "imbd id": "nm0103976", 
+   "imbd name": "Brahmaji"
+  }, 
+  {
+   "imbd id": "nm0222144", 
+   "imbd name": "Rahul Dev"
+  }, 
+  {
+   "imbd id": "nm2145958", 
+   "imbd name": "Vajja Venkata Giridhar"
+  }
+ ]
+}

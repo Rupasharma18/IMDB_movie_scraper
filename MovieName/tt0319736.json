@@ -1,0 +1,85 @@
+{
+ "bio": "The story of a young revolutionary who raised an armed resistance against the British rule in India.", 
+ "name": "TheLegendofBhagatSingh", 
+ "language": [
+  "Hindi", 
+  "English", 
+  "Bengali", 
+  "Punjabi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Rajkumar Santoshi"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0319736/mediaviewer/rm898996737", 
+ "genre": [
+  "Action", 
+  "Biography", 
+  "Drama"
+ ], 
+ "runtime": "155 min", 
+ "caste": [
+  {
+   "imbd id": "nm0222426", 
+   "imbd name": "Ajay Devgn"
+  }, 
+  {
+   "imbd id": "nm0839820", 
+   "imbd name": "Sushant Singh"
+  }, 
+  {
+   "imbd id": "nm1430018", 
+   "imbd name": "D. Santosh"
+  }, 
+  {
+   "imbd id": "nm0592782", 
+   "imbd name": "Akhilendra Mishra"
+  }, 
+  {
+   "imbd id": "nm0044796", 
+   "imbd name": "Raj Babbar"
+  }, 
+  {
+   "imbd id": "nm0416077", 
+   "imbd name": "Farida Jalal"
+  }, 
+  {
+   "imbd id": "nm1182255", 
+   "imbd name": "Amrita Rao"
+  }, 
+  {
+   "imbd id": "nm0864608", 
+   "imbd name": "Mukesh Tiwari"
+  }, 
+  {
+   "imbd id": "nm1242796", 
+   "imbd name": "Surendra Rajan"
+  }, 
+  {
+   "imbd id": "nm1019748", 
+   "imbd name": "Saurabh Dubey"
+  }, 
+  {
+   "imbd id": "nm0474903", 
+   "imbd name": "Swaroop Kumar"
+  }, 
+  {
+   "imbd id": "nm1574616", 
+   "imbd name": "Arun Patwardhan"
+  }, 
+  {
+   "imbd id": "nm1199163", 
+   "imbd name": "Keneth Desai"
+  }, 
+  {
+   "imbd id": "nm0659162", 
+   "imbd name": "Sitaram Panchal"
+  }, 
+  {
+   "imbd id": "nm1569756", 
+   "imbd name": "Bhaswar Chatterjee"
+  }
+ ]
+}

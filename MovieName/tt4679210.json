@@ -1,0 +1,82 @@
+{
+ "bio": "A young man has three opportunities to find love. Will the third time be the charm?", 
+ "name": "Premam", 
+ "language": [
+  "Malayalam"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Alphonse Puthren"
+ ], 
+ "poster": "https://www.imdb.com/title/tt4679210/mediaviewer/rm2121785600", 
+ "genre": [
+  "Comedy", 
+  "Drama", 
+  "Romance"
+ ], 
+ "runtime": "156 min", 
+ "caste": [
+  {
+   "imbd id": "nm4028885", 
+   "imbd name": "Nivin Pauly"
+  }, 
+  {
+   "imbd id": "nm7367695", 
+   "imbd name": "Sai Pallavi"
+  }, 
+  {
+   "imbd id": "nm7371790", 
+   "imbd name": "Madonna Sebastian"
+  }, 
+  {
+   "imbd id": "nm7322042", 
+   "imbd name": "Anupama Parameshwaran"
+  }, 
+  {
+   "imbd id": "nm5682160", 
+   "imbd name": "S.V. Krishna Shankar"
+  }, 
+  {
+   "imbd id": "nm5682173", 
+   "imbd name": "Shabareesh Varma"
+  }, 
+  {
+   "imbd id": "nm4265894", 
+   "imbd name": "Vinay Forrt"
+  }, 
+  {
+   "imbd id": "nm6229968", 
+   "imbd name": "Soubin Shahir"
+  }, 
+  {
+   "imbd id": "nm2936907", 
+   "imbd name": "Siju Wilson"
+  }, 
+  {
+   "imbd id": "nm7898729", 
+   "imbd name": "Ananth Nag"
+  }, 
+  {
+   "imbd id": "nm7898730", 
+   "imbd name": "Alwin Antony"
+  }, 
+  {
+   "imbd id": "nm7898728", 
+   "imbd name": "Faisal C.M."
+  }, 
+  {
+   "imbd id": "nm6120331", 
+   "imbd name": "Franko Davis"
+  }, 
+  {
+   "imbd id": "nm7371792", 
+   "imbd name": "Rinsa Jacob"
+  }, 
+  {
+   "imbd id": "nm7898733", 
+   "imbd name": "Jayashankar"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "bio": "Ranjit, who makes fun of idiots, gets completely annoyed when he invites a tax inspector and a singer to his house.", 
+ "name": "BhejaFry", 
+ "language": [
+  "Hindi"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Sagar Ballary"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1014672/mediaviewer/rm2427797504", 
+ "genre": [
+  "Comedy", 
+  "Drama"
+ ], 
+ "caste": [
+  {
+   "imbd id": "nm0665555", 
+   "imbd name": "Vinay Pathak"
+  }, 
+  {
+   "imbd id": "nm0438494", 
+   "imbd name": "Rajat Kapoor"
+  }, 
+  {
+   "imbd id": "nm0045136", 
+   "imbd name": "Sarika"
+  }, 
+  {
+   "imbd id": "nm0813763", 
+   "imbd name": "Milind Soman"
+  }, 
+  {
+   "imbd id": "nm1249116", 
+   "imbd name": "Ranvir Shorey"
+  }, 
+  {
+   "imbd id": "nm3079380", 
+   "imbd name": "Bhairavi Goswami"
+  }, 
+  {
+   "imbd id": "nm0022758", 
+   "imbd name": "Tom Alter"
+  }, 
+  {
+   "imbd id": "nm1122077", 
+   "imbd name": "Harsh Chhaya"
+  }, 
+  {
+   "imbd id": "nm2680506", 
+   "imbd name": "Sharat Katariya"
+  }, 
+  {
+   "imbd id": "nm3208391", 
+   "imbd name": "Sushma Kaul"
+  }, 
+  {
+   "imbd id": "nm1670264", 
+   "imbd name": "Ikhlaq Khan"
+  }
+ ]
+}

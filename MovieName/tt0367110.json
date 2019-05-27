@@ -1,0 +1,81 @@
+{
+ "bio": "A successful Indian scientist returns to an Indian village to take his nanny to America with him and in the process rediscovers his roots.", 
+ "name": "Swades:We,thePeople", 
+ "language": [
+  "Hindi", 
+  "English"
+ ], 
+ "country": [
+  "India"
+ ], 
+ "director": [
+  "Ashutosh Gowariker"
+ ], 
+ "poster": "https://www.imdb.com/title/tt0367110/mediaviewer/rm3371172352", 
+ "genre": [
+  "Drama"
+ ], 
+ "runtime": "195 min", 
+ "caste": [
+  {
+   "imbd id": "nm0451321", 
+   "imbd name": "Shah Rukh Khan"
+  }, 
+  {
+   "imbd id": "nm1539666", 
+   "imbd name": "Gayatri Joshi"
+  }, 
+  {
+   "imbd id": "nm1584145", 
+   "imbd name": "Kishori Ballal"
+  }, 
+  {
+   "imbd id": "nm1587122", 
+   "imbd name": "Smit Sheth"
+  }, 
+  {
+   "imbd id": "nm0849195", 
+   "imbd name": "Lekh Tandon"
+  }, 
+  {
+   "imbd id": "nm0900267", 
+   "imbd name": "Rajesh Vivek"
+  }, 
+  {
+   "imbd id": "nm1004804", 
+   "imbd name": "Daya Shankar Pandey"
+  }, 
+  {
+   "imbd id": "nm1585543", 
+   "imbd name": "Farrukh Jaffar"
+  }, 
+  {
+   "imbd id": "nm1585140", 
+   "imbd name": "Vishnudutt Gaur"
+  }, 
+  {
+   "imbd id": "nm1003997", 
+   "imbd name": "Raja Awasthi"
+  }, 
+  {
+   "imbd id": "nm1584129", 
+   "imbd name": "Vishwa Mohan Badola"
+  }, 
+  {
+   "imbd id": "nm1005102", 
+   "imbd name": "Bhim Vakani"
+  }, 
+  {
+   "imbd id": "nm0901137", 
+   "imbd name": "Rahul Vohra"
+  }, 
+  {
+   "imbd id": "nm1330062", 
+   "imbd name": "Rajesh Balwani"
+  }, 
+  {
+   "imbd id": "nm1586516", 
+   "imbd name": "Bachan Pachehra"
+  }
+ ]
+}

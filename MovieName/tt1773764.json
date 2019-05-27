@@ -1,0 +1,84 @@
+{
+ "bio": "The film explores questions of identity, justice, beauty, meaning and death through an experimental photographer, an ailing monk and a young stockbroker.", 
+ "name": "ShipofTheseus", 
+ "language": [
+  "English", 
+  "Arabic", 
+  "Swedish", 
+  "Hindi"
+ ], 
+ "country": [
+  "India", 
+  "Netherlands"
+ ], 
+ "director": [
+  "Anand Gandhi"
+ ], 
+ "poster": "https://www.imdb.com/title/tt1773764/mediaviewer/rm138926080", 
+ "genre": [
+  "Drama"
+ ], 
+ "runtime": "140 min", 
+ "caste": [
+  {
+   "imbd id": "nm3733098", 
+   "imbd name": "Aida Elkashef"
+  }, 
+  {
+   "imbd id": "nm6814353", 
+   "imbd name": "Yogesh Shah"
+  }, 
+  {
+   "imbd id": "nm3822917", 
+   "imbd name": "Faraz Khan"
+  }, 
+  {
+   "imbd id": "nm6814354", 
+   "imbd name": "Hannan Youssef"
+  }, 
+  {
+   "imbd id": "nm6814355", 
+   "imbd name": "Narendra Shah"
+  }, 
+  {
+   "imbd id": "nm6814356", 
+   "imbd name": "Chitra Shah"
+  }, 
+  {
+   "imbd id": "nm6814357", 
+   "imbd name": "Manan Shah"
+  }, 
+  {
+   "imbd id": "nm6814358", 
+   "imbd name": "Aishwarya"
+  }, 
+  {
+   "imbd id": "nm6814359", 
+   "imbd name": "Balaji Janardhan"
+  }, 
+  {
+   "imbd id": "nm6814360", 
+   "imbd name": "Abbas K."
+  }, 
+  {
+   "imbd id": "nm6814361", 
+   "imbd name": "Bharat Pardesi"
+  }, 
+  {
+   "imbd id": "nm6814362", 
+   "imbd name": "Pradeep Sinha"
+  }, 
+  {
+   "imbd id": "nm6814363", 
+   "imbd name": "Akhtar Bhale"
+  }, 
+  {
+   "imbd id": "nm1628647", 
+   "imbd name": "Sidharth Meer"
+  }, 
+  {
+   "imbd id": "nm6814364", 
+   "imbd name": "Bonnie Chenevier"
+  }
+ ]
+}
