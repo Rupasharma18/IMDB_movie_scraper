@@ -11,6 +11,7 @@ soup = BeautifulSoup(res.text,"html.parser")
 div = soup.find('div', class_='lister')
 tbody = div.find('tbody', class_='lister-list')
 trs = tbody.find_all('tr')
+# first function and task1, all the movies data details.
 def scrape_top_list():
     dic_list = []
     i = 0
@@ -31,9 +32,9 @@ def scrape_top_list():
         dic_list.append(dic)
     return dic_list
 top_movies = (scrape_top_list()) 
-# pprint.pprint (top_movies)
+pprint.pprint (top_movies)
 
-# task2
+#second function and task2
 def group_by_year(movie):
     dat = {}
     for i in movie :
@@ -45,7 +46,7 @@ def group_by_year(movie):
 movies_by_year  = (group_by_year(top_movies))
 pprint .pprint (movies_by_year )
 
-# task 12
+# task 12 
 def scrape_movie_cast(movie_caste_url, id):
         # print (movie_caste_url)
         # print (id)
